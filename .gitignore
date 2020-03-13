@@ -1,0 +1,9 @@
+/other
+/json
+/gui
+/non-gui
+/nonSTDJSON
+/*.md
+*.txt
+*.sh
+!Readme.md
