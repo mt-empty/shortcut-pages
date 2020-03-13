@@ -1,1 +1,0 @@
-game-of-life.md

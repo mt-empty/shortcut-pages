@@ -1,1 +1,0 @@
-cpp-algorithms.md

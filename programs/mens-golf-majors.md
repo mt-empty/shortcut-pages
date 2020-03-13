@@ -1,1 +1,0 @@
-golf-majors.md

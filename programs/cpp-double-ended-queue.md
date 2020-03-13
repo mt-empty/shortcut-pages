@@ -1,1 +1,0 @@
-cpp-deque.md

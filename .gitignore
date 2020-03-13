@@ -1,9 +1,9 @@
 /other
 /json
-/gui
-/non-gui
 /nonSTDJSON
+/sorting
 /*.md
 *.txt
 *.sh
+.vscode
 !Readme.md

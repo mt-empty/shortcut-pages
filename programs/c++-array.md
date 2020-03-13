@@ -1,1 +1,0 @@
-cpp-arrays.md
