@@ -1,1 +1,0 @@
-cpp-vector.md

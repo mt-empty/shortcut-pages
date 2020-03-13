@@ -13,8 +13,12 @@ match \ if not followed by [ or { or } or ]
 for more examples: https://regex101.com/r/G9hbnZ/17
 
 """
+# regexp to parse json file
 REGEX = r'(?<!\\)[\[\{\]\}]|\\(?={|\]|}|\[)'
 
+
+# regexp for special charachters in aliases 
+aliasREGEX = r"[+<>\\/:*#$%&{}!'`\"@=|]"
 
 TITLE_TAG = "# "
 CATEGORY_TAG = "$ "
@@ -25,15 +29,17 @@ NORMAL_TEXT_TAG = "> "
 
 
 
-def parse(input_file):
+def parse(args):
     """parses json into approperiate md pretty format
 
     Arguments:
-        input_file {json} -- JSON cheatsheet file
+        args {array} -- 
     """
-    program_name = input_file[1][:-5]
-    markdown_path = "programs/" + program_name + ".md"
-    json_path = "json/" + input_file[1]
+    # destination = "programs/"
+    scriptPath, destination, json_file = args
+    program_name = json_file[:-5]
+    markdown_path = destination + program_name + ".md"
+    json_path = "json/" + json_file
 
     with open(json_path, "r") as infile:
         with open(markdown_path, "w+") as outfile:
@@ -100,8 +106,10 @@ def parse(input_file):
                         # ignore aliases that already exist for the same program
                         if alias == program_name:
                             continue
+                        elif re.search(aliasREGEX, alias):
+                            continue 
                         else:
-                            alias_path = "programs/" + \
+                            alias_path = destination + \
                                 alias + ".md"
                             os.symlink(program_name + ".md", alias_path)
 
