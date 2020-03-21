@@ -1,0 +1,38 @@
+{
+    "name":"Program name",
+    "description": "Program description",
+    "metadata":{
+        "sourceUrl":"https://shortcut.url"
+    },
+  "aliases": [
+    "Alias one",
+    "Alias two"
+  ],
+    "isGUI": true or false,
+    "section_order":[
+        "Section one",
+        "Section two"
+    ],
+    "sections":{
+        "Section one":[
+            {
+                "val":"Description",
+                "key":"Shortcut one"
+            },
+            {
+                "val":"Description",
+                "key":"Shortcut two"
+            }
+        ],
+        "Section two":[
+            {
+                "val":"Description",
+                "key":"Shortcut one"
+            },
+            {
+                "val":"Description",
+                "key":"Shortcut two"
+            }
+        ]
+    }
+}

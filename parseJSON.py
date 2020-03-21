@@ -6,7 +6,7 @@ import re
 """
 (?<!\\)[\[\{\]\}]|\\(?={|\]|}|\[)
 
-match [ or { or ] or } if not preceeded by /
+match [ or { or ] or } if not preceded by /
 or
 match \ if not followed by [ or { or } or ]
 
@@ -17,7 +17,7 @@ for more examples: https://regex101.com/r/G9hbnZ/17
 REGEX = r'(?<!\\)[\[\{\]\}]|\\(?={|\]|}|\[)'
 
 
-# regexp for special charachters in aliases 
+# regexp for special characters in aliases 
 aliasREGEX = r"[+<>\\/:*#$%&{}!'`\"@=|]"
 
 TITLE_TAG = "# "
@@ -30,7 +30,7 @@ NORMAL_TEXT_TAG = "> "
 
 
 def parse(args):
-    """parses json into approperiate md pretty format
+    """parses json into appropriate md pretty format
 
     Arguments:
         args {array} -- 
@@ -50,8 +50,8 @@ def parse(args):
             def upperSection():
                 outfile.write(TITLE_TAG + data["name"] + "\n\n")
 
-                with open("programs.md", "a") as prgs:
-                    prgs.write(program_name + ", ")
+                # with open("programs.md", "a") as prgs:
+                #     prgs.write(program_name + ", ")
 
                 try:
                     outfile.write(
@@ -91,7 +91,7 @@ def parse(args):
                                     "", shortcut, description))
                         except:
                             with open("parseLog.md", "a") as log:
-                                # log.write("Discription error " + json_path+"\n")
+                                # log.write("Description error " + json_path+"\n")
                                 log.write(json_path+"\n")
                                 quit()
                     outfile.write("\n")

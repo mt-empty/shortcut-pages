@@ -10,13 +10,15 @@ Currently the collection also includes non-GUI cheatsheets(extra):
 * Programming languages
 * Other
 
-All shortcut/cheatsheet pages have been cloned from [DuckDuckgo repository]().
+All shortcut/cheatsheet pages were cloned from [DuckDuckgo repository](https://github.com/duckduckgo/zeroclickinfo-goodies).
+
 
 ## Why shortcut
-How many times have you have you had to use you mouse after installing that new shiny GUI application? 
-You probably had to look for shortcuts online.
+How many times did you have to use your mouse after installing the new shiny GUI application? 
 
-Well you no longer have to, as you can get the shortcuts right from you terminal.
+You probably had to navigate a menu or look online for shortcuts.
+
+Well you no longer have to, as you can get the shortcuts right from your terminal.
 
 This project was started as an attempt to `Never leave my keyboard`, as well as a learning experience.
 
@@ -35,9 +37,11 @@ Contributions are most welcome!
 
 Bugs: open an issue here.
 
-New shortcut-page: open an issue here, or send a pull request with the included page.
+New features: open an issue here or feel free to send a pull request with the included feature.
+
+Please refer to [contribution page](/contribution/Readme.md) for pull request.
 
 ## Further inspired by theses useful projects
 
 * [tldr](): A collection of simplified and community-driven man pages.
-* [cheat](): Interactive cheatsheets on the command-line
+* [cheat](): Interactive cheatsheets on the command-line.
