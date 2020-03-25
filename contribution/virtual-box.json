@@ -6,7 +6,7 @@
   },
   "aliases": [
     "virtualbox",
-    "oracle virtualbox",
+    "oracle-virtualbox",
     "vbox"
   ],
   "isGUI": true,

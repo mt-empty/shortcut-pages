@@ -10,8 +10,6 @@ Currently the collection also includes non-GUI cheatsheets(extra):
 * Programming languages
 * Other
 
-All shortcut/cheatsheet pages were cloned from [DuckDuckgo repository](https://github.com/duckduckgo/zeroclickinfo-goodies).
-
 
 ## Why shortcut
 How many times did you have to use your mouse after installing the new shiny GUI application? 
@@ -39,7 +37,7 @@ Bugs: open an issue here.
 
 New features: open an issue here or feel free to send a pull request with the included feature.
 
-Please refer to [contribution page](/contribution/Readme.md) for pull request.
+Please refer to [contribution page](/contribution/Readme.md) for pull requests.
 
 ## Further inspired by theses useful projects
 
