@@ -2,7 +2,7 @@
 
 > Source: http://www.underscorejs.org
 
-> Aliases: underscorejs, underscore
+> Aliases: underscore, underscorejs
 
 $ Arrays
     `_.first(array,n)              {{Returns the first element of array. Passing n will return the first n elements of the array}} 

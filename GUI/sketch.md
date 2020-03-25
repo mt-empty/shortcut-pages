@@ -2,7 +2,7 @@
 
 > Source: http://sketchshortcuts.com/
 
-> Aliases: osx-sketch, mac-sketch, apple-sketch
+> Aliases: mac-sketch, apple-sketch, osx-sketch
 
 $ Insert
     `A                             {{New Artboard}} 

@@ -2,7 +2,7 @@
 
 > Source: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-> Aliases: markdown-language, md
+> Aliases: md, markdown-language
 
 $ Headers
     `# Heading                     {{H1}} 

@@ -2,8 +2,6 @@
 
 > Source: https://help.github.com/articles/generating-an-ssh-key/
 
-> Aliases: 
-
 $ List Keys
     `ls -al ~/.ssh                 {{Check for existing keys.}} 
 

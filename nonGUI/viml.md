@@ -2,7 +2,7 @@
 
 > Source: http://vimdoc.sourceforge.net/htmldoc/usr_41.html
 
-> Aliases: vim-language, vim-script, vim-scripting
+> Aliases: vim-language, vim-scripting, vim-script
 
 $ Variable Scope
     `b:var                         {{Variable local to buffer}} 

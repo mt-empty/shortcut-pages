@@ -2,7 +2,7 @@
 
 > Source: http://irtfweb.ifa.hawaii.edu/~spex/computers/spex1/techdocs/1201-hilodog/SunOBP_Quick_Ref.pdf
 
-> Aliases: sun-openboot, sun-boot-prompt, sun-open-boot-prom
+> Aliases: sun-boot-prompt, sun-openboot, sun-open-boot-prom
 
 $ Basic Commands
     `banner                        {{Shows up the startup banner}} 

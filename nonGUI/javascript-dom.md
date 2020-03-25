@@ -2,7 +2,7 @@
 
 > Source: http://overapi.com/javascript/
 
-> Aliases: java-script-dom, js-dom, java-script-events, javascript-events, js-events
+> Aliases: js-dom, java-script-dom, javascript-events, js-events, java-script-events
 
 $ Document Methods
     `adoptNode(node)               {{Adopts a node from another document to this document, and returns the adopted node}} 

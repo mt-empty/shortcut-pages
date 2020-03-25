@@ -2,7 +2,7 @@
 
 > Source: https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages
 
-> Aliases: slack-markdown, slack-format, slack-messages, slack-text-format, slack-text-formatting, slack-message, slack-tags, slack-code-blocks, slack-text-blockquotes
+> Aliases: slack-markdown, slack-tags, slack-format, slack-message, slack-messages, slack-text-format, slack-code-blocks, slack-text-blockquotes, slack-text-formatting
 
 $ Emphasis
     `*text*                        {{Bold text}} 

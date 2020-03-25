@@ -2,7 +2,7 @@
 
 > Source: http://tolkiengateway.net/wiki/Ainur
 
-> Aliases: ainur, valar, maiar
+> Aliases: valar, maiar, ainur
 
 $ Lords of the Valar
     `Manwë                         {{King of the Valar, god of wind and birds, ⚭ Varda, brother of Melkor (Morgoth)}} 

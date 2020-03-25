@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/deque/deque/
 
-> Aliases: cpp-double-ended-queue, c++-deque, c++-double-ended-queue
+> Aliases: cpp-double-ended-queue
 
 $ Iterators
     `deque.begin()                 {{Returns an iterator pointing to the first element in the deque container}} 

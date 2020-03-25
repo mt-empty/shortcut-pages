@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/queue/priority_queue/
 
-> Aliases: cpp-priority-queues, c++-priority-queue-container, cpp-priority-queues-container, c++-priority-queue
+> Aliases: cpp-priority-queues, cpp-priority-queues-container
 
 $ Member Functions
     `mypq.empty()                  {{Returns whether the priority_queue is empty}} 

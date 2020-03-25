@@ -2,8 +2,6 @@
 
 > Source: http://wp-cli.org/
 
-> Aliases: wp-cli
-
 $ Installing
     `curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
 >                                  {{Downloads wp-cli.phar.}} 

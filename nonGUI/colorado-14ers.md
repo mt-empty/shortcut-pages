@@ -2,7 +2,7 @@
 
 > Source: http://14ers.com
 
-> Aliases: colorado-fourteeners, co-fourteeners, co-14ers
+> Aliases: colorado-fourteeners, co-14ers, co-fourteeners
 
 $ Front Range
     `Grays Peak                    {{14,270’}} 

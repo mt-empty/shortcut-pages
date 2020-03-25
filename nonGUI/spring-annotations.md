@@ -2,7 +2,7 @@
 
 > Source: http://www.techferry.com/articles/spring-annotations.html
 
-> Aliases: spring-mvc-annotations, spring-framework-annotations, spring-security-annotations
+> Aliases: spring-framework-annotations, spring-mvc-annotations, spring-security-annotations
 
 $ Spring Annotations
     `@Service                      {{Annotate all your service classes with @Service}} 

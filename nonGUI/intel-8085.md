@@ -2,7 +2,7 @@
 
 > Source: http://scanftree.com/microprocessor/Instruction-Set-In-8085
 
-> Aliases: 8085-instructionset, 8085-instructions, 8085, 8085-programming, 8085-instruction-set
+> Aliases: 8085, 8085-instructionset, 8085-instruction-set, 8085-programming, 8085-instructions
 
 $ Data Transfer Instructions
     `MOV Destination, Source       {{Copies a word or byte of data from 'source' to 'destination'}} 

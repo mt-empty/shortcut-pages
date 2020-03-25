@@ -2,7 +2,7 @@
 
 > Source: https://github.com/idris-hackers/idris-mode#interactive-editing
 
-> Aliases: idris-mode-emacs, idris-emacs, idris-emacs-mode, idris-mode-for-emacs, emacs-idris-mode
+> Aliases: idris-emacs, idris-mode-emacs, idris-mode-for-emacs, idris-emacs-mode
 
 $ Documentation
     `C-c, C-t                      {{Idris Type at Point}} 

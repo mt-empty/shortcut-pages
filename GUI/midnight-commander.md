@@ -2,7 +2,7 @@
 
 > Source: http://trembath.co.za/mctutorial.html
 
-> Aliases: mc, midnight-comander
+> Aliases: midnight-comander, mc
 
 $ Movement
     `↑                             {{Move selection bar to previous entry}} 

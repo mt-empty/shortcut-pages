@@ -2,7 +2,7 @@
 
 > Source: https://angular.io/docs/ts/latest/guide/cheatsheet.html
 
-> Aliases: angular-2, angularjs-2
+> Aliases: angularjs-2, angular-2
 
 $ Bootstraping
     `bootstrap​(MyAppComponent, [MyService, provide(...)]);

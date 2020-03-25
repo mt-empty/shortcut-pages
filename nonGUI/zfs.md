@@ -2,7 +2,7 @@
 
 > Source: https://www.freebsd.org/doc/handbook/zfs.html
 
-> Aliases: zpool, z-file-system
+> Aliases: z-file-system, zpool
 
 $ Pools
     `zpool list                    {{Lists the given pools.}} 

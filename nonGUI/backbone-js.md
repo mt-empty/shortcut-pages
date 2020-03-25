@@ -2,7 +2,7 @@
 
 > Source: http://backbonejs.org/
 
-> Aliases: backbonejs, backbone, backbone.js
+> Aliases: backbone.js, backbonejs, backbone
 
 $ Events
     `object.on(event, callback, [context])[context])

@@ -2,7 +2,7 @@
 
 > Source: https://devcenter.heroku.com/categories/command-line
 
-> Aliases: heroku-cli, heroku-toolbelt, heroku-command-line
+> Aliases: heroku-command-line, heroku-cli, heroku-toolbelt
 
 $ Basics
     `heroku --version              {{Check Command-line Tool Version}} 

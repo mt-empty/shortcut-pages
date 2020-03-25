@@ -2,7 +2,7 @@
 
 > Source: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-> Aliases: css-flexbox, flexbox-guide, flexbox-properties, flex-box
+> Aliases: css-flexbox, flexbox-properties, flexbox-guide, flex-box
 
 $ Display
     `display: flex;                {{Defines a flex container and enables a flex context for all its direct children}} 

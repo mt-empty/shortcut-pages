@@ -2,7 +2,7 @@
 
 > Source: http://ipset.netfilter.org/iptables.man.html
 
-> Aliases: ip6tables, linux-firewall, iptable
+> Aliases: ip6tables, iptable, linux-firewall
 
 $ Basic Commands
     `sudo iptables -L -v -n        {{List all rules with verbose and numeric output}} 

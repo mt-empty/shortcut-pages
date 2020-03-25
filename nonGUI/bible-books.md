@@ -2,7 +2,7 @@
 
 > Source: http://www.biblebelievers.com/believers-org/kjv-stats.html
 
-> Aliases: books-in-old-testament, books-in-new-testament, books-in-bible, books-of-bible, holy-bible-books, old-testament-books, books-of-the-holy-bible, new-testament-books
+> Aliases: books-in-bible, books-of-the-holy-bible, books-in-old-testament, old-testament-books, new-testament-books, books-in-new-testament, books-of-bible, holy-bible-books
 
 $ Old Testament (1-10)
     `Genesis                       {{1,533 Verses, 50 Chapters}} 

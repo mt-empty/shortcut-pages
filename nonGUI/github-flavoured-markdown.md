@@ -2,7 +2,7 @@
 
 > Source: https://help.github.com/articles/github-flavored-markdown/
 
-> Aliases: ghfmd, gfm
+> Aliases: gfm, ghfmd
 
 $ Multiple Underscores In Words
     `eat_apple_daily               {{Markdown transforms underscores (_) into italics, GFM ignores underscores in words}} 

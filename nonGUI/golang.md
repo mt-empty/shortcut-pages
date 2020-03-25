@@ -2,7 +2,7 @@
 
 > Source: https://github.com/a8m/go-lang-cheat-sheet
 
-> Aliases: golang-operators, golang-script, golang-functions, go-lang, go
+> Aliases: go, go-lang, golang-operators, golang-functions, golang-script
 
 $ Variables
     `var varname vartype           {{Declare a variable}} 

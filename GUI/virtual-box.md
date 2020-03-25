@@ -2,7 +2,7 @@
 
 > Source: http://kbmode.com/windows/virtualbox-keyboard-shortcuts
 
-> Aliases: oracle-virtualbox, virtualbox, vbox
+> Aliases: virtualbox, oracle-virtualbox, vbox
 
 $ Commands
     `Ctrl A                        {{Add}} 

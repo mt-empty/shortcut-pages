@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/queue/queue/
 
-> Aliases: cpp-queues, cpp-queues-container, c++-queue, c++-queue-container
+> Aliases: cpp-queues, cpp-queues-container
 
 $ Member Functions
     `myqueue.empty()               {{Returns whether the queue is empty}} 

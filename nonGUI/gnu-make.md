@@ -2,7 +2,7 @@
 
 > Source: http://www.cheatography.com/bavo-van-achte/cheat-sheets/gnumake/
 
-> Aliases: make-gnu, makefile, make
+> Aliases: make, make-gnu, makefile
 
 $ Command-line options
     `target                        {{Select the target to run}} 

@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Western_dress_codes
 
-> Aliases: interview-dress, interview-clothes, interview-uniforms, interview-attire, interview-clothing, formals-for-interview, interview-apparels
+> Aliases: interview-uniforms, interview-apparels, interview-attire, interview-dress, interview-clothes, interview-clothing, formals-for-interview
 
 $ Boys
     `Shirt Color                   {{Light Blue / White}} 

@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/List_of_formulas_in_elementary_geometry
 
-> Aliases: area, volume, perimeter, surface-area, geometry
+> Aliases: volume, area, surface-area, geometry, perimeter
 
 $ Area Formulas
     `Square                        {{side²}} 

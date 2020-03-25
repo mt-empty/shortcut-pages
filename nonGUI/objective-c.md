@@ -2,7 +2,7 @@
 
 > Source: http://www.tutorialspoint.com/objective_c
 
-> Aliases: objectivec, objective-c, objective-c-language, objective-c-programming
+> Aliases: objective-c-language, objective-c-programming, objectivec
 
 $ Primitive Data Types
     `char                          {{Character}} 

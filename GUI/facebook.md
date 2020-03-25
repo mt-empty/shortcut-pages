@@ -1,6 +1,6 @@
 # Facebook
 
-> Aliases: messenger, web-messenger, facebook-web-messenger, facebook-messenger
+> Aliases: messenger, web-messenger, facebook-messenger, facebook-web-messenger
 
 $ Browser Keys
     `Alt #, Enter                  {{Internet Explorer for PC}} 

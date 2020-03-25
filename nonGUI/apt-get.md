@@ -2,7 +2,7 @@
 
 > Source: https://help.ubuntu.com/community/AptGet/Howto
 
-> Aliases: aptget, apt-get
+> Aliases: aptget
 
 $ Installation commands
     `sudo apt-get install <package_name>

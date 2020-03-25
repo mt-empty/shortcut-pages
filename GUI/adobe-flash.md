@@ -2,7 +2,7 @@
 
 > Source: http://www.academia.edu/13246006/Adobe_Flash_CC_2015_-keyboard-shortcuts-cheat-sheet
 
-> Aliases: adobe-flash-cs6, adobe-flash-professional, flash-cs6
+> Aliases: adobe-flash-cs6, flash-cs6, adobe-flash-professional
 
 $ File
     `Ctrl R                        {{Import image/sound}} 

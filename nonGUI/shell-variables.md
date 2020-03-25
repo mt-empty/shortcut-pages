@@ -2,7 +2,7 @@
 
 > Source: http://bash.cyberciti.biz/guide/Variables
 
-> Aliases: shell-var, shell-vars, basic-shell-variables, shellvar
+> Aliases: basic-shell-variables, shellvar, shell-var, shell-vars
 
 $ System Variables
     `BASH_VERSION                  {{Version information for this Bash}} 

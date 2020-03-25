@@ -2,7 +2,7 @@
 
 > Source: http://skyscanner.github.io/slate
 
-> Aliases: skyscanner-b2b-apis, skyscanner-b2b-api, skyscanner-api
+> Aliases: skyscanner-api, skyscanner-b2b-api, skyscanner-b2b-apis
 
 $ Flights: prices (live)
     `/pricing/v1.0 (POST)          {{Create your session. All query parameters (origin, destination, dates, etc) must be added to the body of the request. Returns the session key for polling results.}} 

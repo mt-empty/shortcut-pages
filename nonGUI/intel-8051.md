@@ -2,7 +2,7 @@
 
 > Source: http://www.keil.com/support/man/docs/is51/is51_instructions.htm
 
-> Aliases: 8051-instructions, 8051, 8051-opcode
+> Aliases: 8051-instructions, 8051-opcode, 8051
 
 $ Instructions (A-D)
     `ACALL                         {{Calls a subroutine located at the specified address (ACALL LABEL)}} 

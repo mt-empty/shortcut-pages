@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/ASCII
 
-> Aliases: ascii-code, ascii
+> Aliases: ascii, ascii-code
 
 $ Special Characters
     `9                             {{\t (Tab)}} 

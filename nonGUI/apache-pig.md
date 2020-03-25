@@ -2,7 +2,7 @@
 
 > Source: http://mortar-public-site-content.s3-website-us-east-1.amazonaws.com/
 
-> Aliases: pig-functions, pig-basics, pig-lang, apache-pig-shell
+> Aliases: pig-basics, apache-pig-shell, pig-functions, pig-lang
 
 $ Data Types
     `int                           {{Signed 32-bit integer}} 

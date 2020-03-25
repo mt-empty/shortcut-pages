@@ -1,6 +1,6 @@
 # VB.NET
 
-> Aliases: visual-basic, visual-basic-net, visual-basic-.net, vb.net, vbnet, visual-basic-dot-net, vb
+> Aliases: vbnet, vb.net, vb, visual-basic, visual-basic-.net, visual-basic-net, visual-basic-dot-net
 
 $ General Structure
     `Option Explicit               {{Enforces strong typing}} 

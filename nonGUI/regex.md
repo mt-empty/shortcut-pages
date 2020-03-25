@@ -2,7 +2,7 @@
 
 > Source: http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/
 
-> Aliases: regular-expressions, regexp, regular-expression
+> Aliases: regexp, regular-expression, regular-expressions
 
 $ Assertions
     `?=                            {{Lookahead assertion}} 

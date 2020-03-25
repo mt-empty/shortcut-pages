@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/unordered_map/unordered_map/
 
-> Aliases: cpp-unordered-maps-container, cpp-unordered-map-container, c++-unordered-maps-container, cpp-unordered-maps, c++-unordered-maps, c++-unordered-map, c++-unordered-map-container
+> Aliases: cpp-unordered-maps, cpp-unordered-map-container, cpp-unordered-maps-container
 
 $ Capacity
     `umap.empty()                  {{Returns a bool value indicating whether the unordered_map container is empty, i.e. whether its size is 0}} 

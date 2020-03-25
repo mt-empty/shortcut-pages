@@ -2,7 +2,7 @@
 
 > Source: http://www.howtogeek.com/198122/32-new-keyboard-shortcuts-in-the-windows-10-technical-preview
 
-> Aliases: windows-ten, microsoft-windows-10, windows-10
+> Aliases: windows-10, windows-ten, microsoft-windows-10
 
 $ Windows Snapping
     `Win ←                         {{Snap current window to the left side of the screen}} 

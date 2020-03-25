@@ -2,7 +2,7 @@
 
 > Source: http://cliplab.org/~vocal/public_info/seminar_notes/node42.html
 
-> Aliases: prolog-predicate, prolog-predicates
+> Aliases: prolog-predicates, prolog-predicate
 
 $ Arithmetic Terms
     `+/2                           {{Addition: 3 + 5.}} 

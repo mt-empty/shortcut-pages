@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Units_of_information
 
-> Aliases: data-units, units-of-information, data-sizes, data-unit, unit-of-data, units-of-data
+> Aliases: units-of-information, unit-of-data, units-of-data, data-sizes, data-unit, data-units
 
 $ Decimal
     `Kilobyte (kB)                 {{10^3 bytes = 1000 bytes}} 

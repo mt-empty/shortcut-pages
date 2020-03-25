@@ -3,6 +3,7 @@
 /nonSTDJSON
 /sorting
 /*.md
+/test
 *.txt
 *.sh
 .vscode

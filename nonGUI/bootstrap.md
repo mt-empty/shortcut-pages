@@ -2,7 +2,7 @@
 
 > Source: http://getbootstrap.com/
 
-> Aliases: twitter-blueprint, twitter-front-end-framework, bootstrap-framework, twitter-bootstrap
+> Aliases: twitter-front-end-framework, twitter-blueprint, twitter-bootstrap, bootstrap-framework
 
 $ Bootstrap Grid System
     `.container                    {{Sets one fixed width for each screen size in bootstrap (xs,sm,md,lg)}} 

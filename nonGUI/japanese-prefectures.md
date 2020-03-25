@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Prefectures_of_Japan
 
-> Aliases: prefectures-of-japan, japan-prefecture, japan-prefectures, japanese-prefecture
+> Aliases: japan-prefecture, japan-prefectures, japanese-prefecture, prefectures-of-japan
 
 $ Hokkaidō
     `Hokkaidō (北海道)                {{Sapporō (札幌市)}} 

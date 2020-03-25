@@ -2,7 +2,7 @@
 
 > Source: http://www.shortcutworld.com/en/win/IntelliJ.html
 
-> Aliases: intellij-idea, android-studio, intellij-ide, idea-ide, intellij-editor
+> Aliases: intellij-idea, intellij-editor, intellij-ide, idea-ide, android-studio
 
 $ General
     `Alt 0...9                     {{Open corresponding tool window}} 

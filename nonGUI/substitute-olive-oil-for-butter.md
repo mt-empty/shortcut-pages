@@ -2,7 +2,7 @@
 
 > Source: https://thepassionateolive.com/baking-with-olive-oil-instead-of-butter/
 
-> Aliases: olive-oil-butter-substitute, butter-and-olive-oil-substitutions-baking, olive-oil-butter, sub-olive-oil-for-butter
+> Aliases: olive-oil-butter, olive-oil-butter-substitute, sub-olive-oil-for-butter, butter-and-olive-oil-substitutions-baking
 
 $ Olive Oil Substitute
     `1 tsp butter                  {{3/4 tsp olive oil}} 

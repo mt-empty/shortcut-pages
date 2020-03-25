@@ -2,7 +2,7 @@
 
 > Source: https://awesomewm.org/doc/manpages/awesome.1.html
 
-> Aliases: awesome-wm, awm, awesomewm
+> Aliases: awm, awesome-wm, awesomewm
 
 $ Window Manager Control
     `Mod4 Ctrl r                   {{Restart awesome}} 

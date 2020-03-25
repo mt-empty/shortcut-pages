@@ -2,7 +2,7 @@
 
 > Source: https://helpx.adobe.com/indesign/using/default-keyboard-shortcuts.html
 
-> Aliases: indesign-cc, adobe-indesign-cc, adobe-indesign
+> Aliases: adobe-indesign-cc, indesign-cc, adobe-indesign
 
 $ Viewing Documents and Document workspaces
     `Ctrl Spacebar                 {{Temporarily select Zoom In tool}} 

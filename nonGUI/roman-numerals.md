@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Roman_numerals
 
-> Aliases: roman-numeric-system, roman-numeral, roman-numbers
+> Aliases: roman-numeral, roman-numeric-system, roman-numbers
 
 $ Units
     `1                             {{I}} 

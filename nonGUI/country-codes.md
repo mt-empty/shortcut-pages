@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/ISO_3166-1
 
-> Aliases: iso-3166-1, country-code
+> Aliases: country-code, iso-3166-1
 
 $ A
     `AD                            {{Andorra, AND/020}} 

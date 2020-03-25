@@ -2,7 +2,7 @@
 
 > Source: http://nekovm.org/doc/tools
 
-> Aliases: neko-tools, neko, nekotools, nekoml-compiler, neko-compiler, neko-vm, neko-tool, nekovm, neko-virtual-machine, neko-toolkit, nekoc
+> Aliases: neko, nekoc, nekovm, nekotools, neko-vm, neko-tool, neko-tools, neko-toolkit, neko-compiler, nekoml-compiler, neko-virtual-machine
 
 $ Setup
     `export NEKOPATH=/custom/libs/path[:/another/path]

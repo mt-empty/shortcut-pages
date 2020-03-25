@@ -2,7 +2,7 @@
 
 > Source: https://developer.mozilla.org/docs/Web/JavaScript/Reference
 
-> Aliases: ecmascript6, es-6, es2015
+> Aliases: ecmascript6, es2015, es-6
 
 $ Declarations
     `const name = 'yourName';      {{Declares a read-only named constant}} 

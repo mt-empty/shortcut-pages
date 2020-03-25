@@ -2,7 +2,7 @@
 
 > Source: https://docs.barrel-db.org/reference
 
-> Aliases: barrel, barreldb-api, barreldb, barrel-api
+> Aliases: barreldb, barrel, barrel-api, barreldb-api
 
 $ Barrel Commands
     `barrel start                  {{starts a barrel instance}} 

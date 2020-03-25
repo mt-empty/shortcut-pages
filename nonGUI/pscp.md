@@ -2,7 +2,7 @@
 
 > Source: http://the.earth.li/~sgtatham/putty/0.53b/htmldoc/Contents.html
 
-> Aliases: pscp-arguments, putty-scp-arguments, putty-scp-options, putty-scp, pscp-options
+> Aliases: pscp-arguments, putty-scp-arguments, putty-scp, pscp-options, putty-scp-options
 
 $ Basics
     `pscp [options] [[user@]host:]source target

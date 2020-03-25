@@ -2,7 +2,7 @@
 
 > Source: http://ageofempires.wikia.com/wiki/Cheat_Codes_(Age_of_Empires_III)
 
-> Aliases: aoe-3, aoe3
+> Aliases: aoe3, aoe-3
 
 $ Resources
     `Give me liberty or give me coin

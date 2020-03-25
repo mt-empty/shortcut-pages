@@ -2,7 +2,7 @@
 
 > Source: http://manpages.debian.org/cgi-bin/man.cgi?query=date
 
-> Aliases: time-formats, unix-date, strftime-format, strftime, strptime-format-specifier, strptime, strftime-formats, date-format, strptime-formats, strftime-format-specifiers, time-formatting, date-formatting, strftime-format-specifier, linux-time, unix-time, date-formats, linux-date, format-date, strptime-format, format-time, time-format, strptime-format-specifiers
+> Aliases: time-format, time-formats, time-formatting, format-time, date-format, date-formats, date-formatting, format-date, strftime, strftime-format, strftime-formats, strftime-format-specifier, strftime-format-specifiers, strptime, strptime-format, strptime-formats, strptime-format-specifier, strptime-format-specifiers, linux-date, linux-time, unix-date, unix-time
 
 $ Day
     `%a                            {{locale's abbreviated weekday name (e.g., Sun)}} 

@@ -2,7 +2,7 @@
 
 > Source: http://www.pygame.org/docs/
 
-> Aliases: basic-pygame, pygame-2d-framework, pygame-tutorial, pygame-package, pygame-python-module
+> Aliases: pygame-tutorial, basic-pygame, pygame-2d-framework, pygame-package, pygame-python-module
 
 $ Load and Launch Pygame
     `import pygame                 {{Imports the package with all the available Pygame modules.}} 

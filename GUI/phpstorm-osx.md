@@ -2,7 +2,7 @@
 
 > Source: http://overapi.com/static/cs/PhpStorm_ReferenceCard.pdf
 
-> Aliases: phpstorm-mac, phpstorm-os-x, phpstorm-macos, phpstorm-mac-os
+> Aliases: phpstorm-os-x, phpstorm-mac, phpstorm-macos, phpstorm-mac-os
 
 $ General
     `⌘ 0...9                       {{Open/close corresponding tool window}} 

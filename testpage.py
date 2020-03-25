@@ -47,24 +47,22 @@ def test(args):
                 
             try:
                 for alias in data["aliases"]:
-                    try:
-                        if " " in alias:
-                            print("Spaces are not allowed in aliases")
-                            raise Exception
-                        if alias == page_name:
-                            print("Aliases same as page name are not allowed in aliases")
-                            raise Exception
-                        elif re.search(aliasREGEX, alias):
-                            print("Invalid character used in", alias)
-                            raise Exception 
-                    except:
-                        print("Error: Invalid alias '{}' for {}\n".format(alias, page_name))
-                        errorFlag = True
+                    if " " in alias:
+                        print("Spaces are not allowed in aliases")
+                        raise Exception
+                    if alias == page_name:
+                        print("Aliases same as page name are not allowed in aliases")
+                        raise Exception
+                    elif re.search(aliasREGEX, alias):
+                        print("Invalid character used in", alias)
+                        raise Exception 
                         
-            except:
+            except KeyError:
                 # aliases are optional
                 pass
-                
+            except Exception:
+                print("Error: Invalid alias '{}' for {}\n".format(alias, page_name))
+                errorFlag = True
             
         def testSections():
             try:

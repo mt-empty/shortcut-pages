@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts
 
-> Aliases: microsoft-windows-xp, windows-7, windows-xp, windows, microsoft-windows-vista, windows-8, microsoft-windows-7, windows-vista, microsoft-windows-8
+> Aliases: windows, windows-xp, windows-vista, windows-7, windows-8, microsoft-windows-xp, microsoft-windows-vista, microsoft-windows-7, microsoft-windows-8
 
 $ General Shortcuts
     `Alt f                         {{File menu}} 

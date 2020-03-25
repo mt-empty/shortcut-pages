@@ -2,7 +2,7 @@
 
 > Source: http://www.cheat-sheets.org/saved-copy/wpfcheatsheet.pdf
 
-> Aliases: xaml-layout, xaml-resources, xaml-snippets, xaml-data-binding, xaml-styles-and-triggers, xaml-for-wpf, xaml-transforms, xaml-brushes
+> Aliases: xaml-for-wpf, xaml-data-binding, xaml-styles-and-triggers, xaml-resources, xaml-transforms, xaml-brushes, xaml-layout, xaml-snippets
 
 $ Data Binding
     `Binding                       {{Binds the current DataContext}} 

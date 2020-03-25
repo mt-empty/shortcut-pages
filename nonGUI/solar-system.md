@@ -2,7 +2,7 @@
 
 > Source: http://nssdc.gsfc.nasa.gov/planetary/factsheet/
 
-> Aliases: saturn, uranus, mercury, jupiter, neptune, planet, planets, solar, mars, earth, solarsystem, sun
+> Aliases: solar, planet, planets, solarsystem, sun, earth, mercury, mars, jupiter, saturn, uranus, neptune
 
 $ Sun
     `Mean distance from earth      {{149,597,900 km}} 

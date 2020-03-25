@@ -2,8 +2,6 @@
 
 > Source: https://msdn.microsoft.com/en-IN/library/618ayhy6.aspx
 
-> Aliases: c#
-
 $ Keywords
     `abstract                      {{The abstract modifier indicates that the thing being modified has a missing or incomplete implementation.}} 
     `as                            {{ Use the as operator to perform certain type of conversions between compatible reference types or nullable types.}} 

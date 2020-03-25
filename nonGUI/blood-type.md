@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Blood_type
 
-> Aliases: blood-types, rh-blood-group-system, blood, abo-blood-group, rh-blood-group, blood-group, abo-blood-group-system
+> Aliases: blood-types, blood, blood-group, abo-blood-group-system, abo-blood-group, rh-blood-group-system, rh-blood-group
 
 $ ABO blood group system
     `Group A                       {{Has only the A antigen on red cells (and B antibody in the plasma). Group A can donate red blood cells to Group A and Group AB.}} 

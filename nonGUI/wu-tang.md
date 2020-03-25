@@ -2,8 +2,6 @@
 
 > Source: https://en.wikipedia.org/wiki/Wu-Tang_Clan#Members
 
-> Aliases: wu-tang
-
 $ Members
     `RZA                           {{born Robert Diggs, July 05 1969}} 
     `GZA                           {{born Gary Grice, August 22 1966}} 

@@ -2,7 +2,7 @@
 
 > Source: http://overapi.com/python
 
-> Aliases: python-2, python2, python-language, py
+> Aliases: python-language, py, python2, python-2
 
 $ Basic Built-in Functions
     `raw_input()                   {{Reads a line from input, converts it to a string and returns that}} 

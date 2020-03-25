@@ -2,8 +2,6 @@
 
 > Source: http://www.cplusplus.com/reference/array/array/
 
-> Aliases: c++-arrays, c++-array
-
 $ Iterators
     `arr.begin()                   {{Returns an iterator pointing to the first element in the array container}} 
     `arr.end()                     {{Returns an iterator pointing to the past-the-end element in the array container}} 

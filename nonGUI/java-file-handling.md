@@ -2,7 +2,7 @@
 
 > Source: https://docs.oracle.com/javase/tutorial/essential/io/
 
-> Aliases: java-file-i/o, java-file-handling-methods
+> Aliases: java-file-handling-methods
 
 $ Byte Streams
     `FileInputStream in = 

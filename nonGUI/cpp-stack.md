@@ -2,8 +2,6 @@
 
 > Source: http://www.cplusplus.com/reference/stack/stack/
 
-> Aliases: c++-stack-container, c++-lifo, c++-stack
-
 $ Member Functions
     `mystack.empty()               {{Returns whether the stack is empty: i.e. whether its size is zero}} 
     `mystack.size()                {{Returns the number of elements in the stack}} 

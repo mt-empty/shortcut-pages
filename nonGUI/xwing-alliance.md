@@ -2,7 +2,7 @@
 
 > Source: http://www.darksaber.xwaupgrade.com/archive/files/X-Wing_Alliance_Reference_Card_Printable.pdf
 
-> Aliases: star-wars-x-wing-alliance, xwa, x-wing-alliance
+> Aliases: x-wing-alliance, star-wars-x-wing-alliance, xwa
 
 $ Targeting
     `R                             {{Nearest enemy fighter}} 

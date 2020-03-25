@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/forward_list/forward_list/
 
-> Aliases: cpp-forward_list, c++-forward_list, c++-forward-list-library, c++-forward-list
+> Aliases: cpp-forward_list
 
 $ Iterators
     `mylist.before_begin()         {{Returns an iterator pointing to the position before the first element in the container}} 

@@ -2,7 +2,7 @@
 
 > Source: http://rkdn.org/roses/colors.asp
 
-> Aliases: rose-colour, rose-petal-meaning, rose-color, rose-colour-meanings, rose, rose-color-meanings
+> Aliases: rose, rose-color, rose-colour, rose-color-meanings, rose-colour-meanings, rose-petal-meaning
 
 $ Colour of Rose
     `Red                           {{Love, Beauty, Courage and Respect, Romantic Love, Congratulations, I Love You, Job Well Done, Sincere Love, Respect, Courage & Passion}} 

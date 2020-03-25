@@ -2,7 +2,7 @@
 
 > Source: http://docs.duckduckhack.com/resources/duckpan-overview.html
 
-> Aliases: duckpan-tool, duck-pan-tool, duck-pan
+> Aliases: duck-pan, duckpan-tool, duck-pan-tool
 
 $ Help Commands
     `duckpan                       {{Prints out the DuckPAN man page}} 

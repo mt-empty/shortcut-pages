@@ -2,7 +2,7 @@
 
 > Source: https://support.apple.com/en-us/HT201236
 
-> Aliases: osx, mac-osx, mac, os-x, mac-os, apple-mac, macos
+> Aliases: osx, os-x, mac, apple-mac, mac-os, mac-osx, macos
 
 $ General
     `⌘ Tab                         {{Switch between apps. Holding Shift reverses.}} 

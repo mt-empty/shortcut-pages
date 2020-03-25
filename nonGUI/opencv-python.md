@@ -2,7 +2,7 @@
 
 > Source: http://opencv.org/
 
-> Aliases: python-opencv, opencvpython, computer-vision, computer-vision-python, python-computer-vision
+> Aliases: opencvpython, python-opencv, computer-vision, computer-vision-python, python-computer-vision
 
 $ Let's get started
     `import cv2                    {{Import OpenCV Module}} 

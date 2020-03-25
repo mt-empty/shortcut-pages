@@ -2,7 +2,7 @@
 
 > Source: https://support.office.com/en-us/article/Keyboard-shortcuts-in-OneNote-2016-for-Windows-44b8b3f4-c274-4bcc-a089-e80fdcc87950
 
-> Aliases: one-note, microsoft-onenote
+> Aliases: microsoft-onenote, one-note
 
 $ General (Windows)
     `Ctrl M                        {{Open a new OneNote window.}} 

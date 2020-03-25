@@ -2,7 +2,7 @@
 
 > Source: https://wiki.archlinux.org/index.php/Pacman
 
-> Aliases: linux-arch, pacman, yaourt, antergos-linux, arch-distro, manjaro-linux, chakra-linux, antergos, arch, manjaro
+> Aliases: arch, arch-distro, linux-arch, pacman, yaourt, antergos, antergos-linux, manjaro, manjaro-linux, chakra-linux
 
 $ Pacman - Package manager utility
     `pacman -S xyz                 {{Install package xyz}} 

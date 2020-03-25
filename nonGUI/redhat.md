@@ -2,7 +2,7 @@
 
 > Source: https://access.redhat.com/articles/yum-cheat-sheet
 
-> Aliases: red-hat-yum, red-hat, redhat-yum, red-hat-enterprise-yum, redhat-enterprise-yum
+> Aliases: red-hat, redhat-yum, redhat-enterprise-yum, red-hat-yum, red-hat-enterprise-yum
 
 $ Yum Queries
     `help                          {{Displays yum commands and options}} 

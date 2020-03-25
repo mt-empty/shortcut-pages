@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
-> Aliases: conway's-game, gol, conways-game
+> Aliases: gol, conways-game
 
 $ Terms
     `Grid                          {{An infinite two-dimensional grid composed of square cells.}} 

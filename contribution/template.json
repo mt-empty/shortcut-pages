@@ -5,8 +5,8 @@
         "sourceUrl":"https://shortcut.url"
     },
   "aliases": [
-    "Alias one",
-    "Alias two"
+    "Alias-one",
+    "Alias-two"
   ],
     "isGUI": true or false,
     "section_order":[

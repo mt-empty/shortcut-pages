@@ -2,7 +2,7 @@
 
 > Source: http://www.shortcutworld.com/en/linux/Atom-(text-editor)_1.0.html
 
-> Aliases: linux-atom, atom-for-windows, atom-text-editor, windows-atom, atom-for-linux
+> Aliases: atom-text-editor, atom-for-windows, atom-for-linux, linux-atom, windows-atom
 
 $ General
     `Ctrl ,                        {{Preferences}} 

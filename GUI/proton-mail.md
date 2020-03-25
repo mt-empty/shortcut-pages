@@ -2,7 +2,7 @@
 
 > Source: https://protonmail.com/support/knowledge-base/keyboard-shortcuts/
 
-> Aliases: proton-mail, protonmail
+> Aliases: protonmail
 
 $ Application
     `?                             {{Opens the help modal}} 

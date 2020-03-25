@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/List_of_Greek_mythological_figures#Major_gods_and_goddesses
 
-> Aliases: greek-gods, greek-and-roman-gods, roman-gods, roman-and-greek-gods
+> Aliases: greek-gods, roman-gods, greek-and-roman-gods, roman-and-greek-gods
 
 $ Greek Gods
     `Aphrodite                     {{Goddess of love, beauty, desire, sex and pleasure}} 

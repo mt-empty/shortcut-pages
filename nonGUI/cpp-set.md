@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/set/set/
 
-> Aliases: c++-sets, cpp-sets, c++-set-container, c++-set, cpp-set-container
+> Aliases: cpp-sets, cpp-set-container
 
 $ Iterators
     `myset.begin()                 {{Returns an iterator referring to the first element in the set container}} 

@@ -2,7 +2,7 @@
 
 > Source: http://dinosaur.compilertools.net/flex/manpage.html
 
-> Aliases: gnu-flex, lex, gnu-lex
+> Aliases: lex, gnu-lex, gnu-flex
 
 $ Lex Input/Output File
     `lex.l                         {{Input file written in lex language}} 

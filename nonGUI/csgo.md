@@ -2,7 +2,7 @@
 
 > Source: https://steamcommunity.com/sharedfiles/filedetails/?id=499441498
 
-> Aliases: counter-strike-global-offensive, counter-strike-go, cs-go, counterstrike-global-offensive, cs:go, counterstrike-go
+> Aliases: counter-strike-go, counterstrike-go, cs-go, counter-strike-global-offensive, counterstrike-global-offensive
 
 $ At the start
     `live                          {{Match has started}} 

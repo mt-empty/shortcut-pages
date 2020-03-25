@@ -2,7 +2,7 @@
 
 > Source: http://www.cheatography.com
 
-> Aliases: sublime3, sublime-text3, sublime-text-3, sublimetext-3, sublimetext3
+> Aliases: sublime3, sublimetext3, sublime-text-3, sublimetext-3
 
 $ General
     `Ctrl Shift P                  {{Command Pallette}} 

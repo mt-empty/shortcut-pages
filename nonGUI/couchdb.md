@@ -2,7 +2,7 @@
 
 > Source: http://docs.couchdb.org/
 
-> Aliases: couch-api, couchdb-api, couch
+> Aliases: couch, couch-api, couchdb-api
 
 $ General
     `couchdb start                 {{Starts a CouchDB instance}} 

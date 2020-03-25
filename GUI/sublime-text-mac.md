@@ -2,7 +2,7 @@
 
 > Source: http://www.cheatography.com/gelicia/cheat-sheets/sublime-text-2-shortcuts-verbose-mac/
 
-> Aliases: sublime-mac, sublime-osx, sublime-text-os-x, sublime-for-mac, sublimetext-mac, sublime-2-for-osx, sublimetext-osx, sublime-text-osx, sublimetext-os-x
+> Aliases: sublime-mac, sublime-osx, sublime-for-mac, sublime-2-for-osx, sublime-text-osx, sublime-text-os-x, sublimetext-mac, sublimetext-osx, sublimetext-os-x
 
 $ General
     `⌘ Shift N                     {{New Window}} 

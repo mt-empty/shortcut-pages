@@ -2,7 +2,7 @@
 
 > Source: http://physics.nist.gov/cuu/Units/units.html
 
-> Aliases: international-system-of-units, physics-si, si-physics, si, si-unit
+> Aliases: si-unit, international-system-of-units, si-physics, physics-si, si
 
 $ SI Base Units
     `length                        {{meter (m)}} 

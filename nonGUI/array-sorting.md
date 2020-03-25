@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Sorting_algorithm
 
-> Aliases: sort-algorithmic-complexity, sort-complexity, sorting-algorithm, sorting-complexity, sorting-algorithmic-complexity, sorting-time, array-sort, array-sorting-algorithm, array-sort-algorithms, sort-memory, sorting-time-complexity, sorting-memory, sort-memory-complexity, sort-time-complexity, array-sorting-algorithms, array-sort-algorithm, sorting-memory-complexity, sort-algorithm, sort-time
+> Aliases: array-sorting-algorithms, array-sorting-algorithm, sorting-complexity, sorting-time-complexity, sorting-memory-complexity, sorting-algorithmic-complexity, sorting-time, sorting-memory, sorting-algorithm, array-sort, array-sort-algorithms, array-sort-algorithm, sort-complexity, sort-time-complexity, sort-memory-complexity, sort-algorithmic-complexity, sort-time, sort-memory, sort-algorithm
 
 $ Quick Sort
     `Best                          {{n ⋅ log( n )}} 

@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/unordered_set/unordered_set/
 
-> Aliases: cpp-unordered-sets, cpp-unordered-sets-container, c++-unordered-sets-container, c++-unordered-sets, cpp-unordered-set-container, c++-unordered-set-container, c++-unordered-set
+> Aliases: cpp-unordered-sets, cpp-unordered-set-container, cpp-unordered-sets-container
 
 $ Capacity
     `myset.empty()                 {{Returns a bool value indicating whether the unordered_set container is empty, i.e. whether its size is 0}} 
