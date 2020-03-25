@@ -20,6 +20,7 @@ REGEX = r'(?<!\\)[\[\{\]\}]|\\(?={|\]|}|\[)'
 # regexp for special characters in aliases 
 aliasREGEX = r"[+<>\\/:*#$%&{}!'`\"@=|]"
 
+# used by the client for ANSI escape code colors
 TITLE_TAG = "# "
 CATEGORY_TAG = "$ "
 SHORTCUT_TAG = "`"
@@ -31,6 +32,7 @@ NORMAL_TEXT_TAG = "> "
 
 def parse(args):
     """parses json into appropriate md pretty format
+    assumes JSON file is located under json/ folder
 
     Arguments:
         args {array} -- 
@@ -63,14 +65,21 @@ def parse(args):
                         # quit()
 
                 try:
-                    aliases.extend(set([a.replace(" ", "-") for a in data["aliases"]]))
+                    aliases.extend(set([a.replace(" ", "-") for a in data["aliases"]])) # set is used to remove duplicates
+                    
+                    for alias in aliases:
+                        # ignore aliases that already exist for the same program
+                        if alias == program_name:
+                            aliases.remove(alias)
+                        elif re.search(aliasREGEX, alias):
+                            aliases.remove(alias) 
+
                     outfile.write(NORMAL_TEXT_TAG + "Aliases: " + ", ".join(aliases) + "\n\n")
-                except:
-                    pass
-                    # with open("parseLog.md", "a") as log:
-                    #     # log.write("Aliases error " + json_path + "\n")
-                    #     log.write(json_path + "\n")
-                    #     # quit()
+                
+                except Exception as e:
+                    with open("aliasError.md", "a") as log:
+                        log.write(str(e) + " for program: " + program_name +
+                                    ",with aliases: " + str(data["aliases"]) + "\n")
 
                 
             def middleSection():
@@ -103,15 +112,9 @@ def parse(args):
                     for alias in aliases:
                         alias = alias.replace(" ", "-")
 
-                        # ignore aliases that already exist for the same program
-                        if alias == program_name:
-                            continue
-                        elif re.search(aliasREGEX, alias):
-                            continue 
-                        else:
-                            alias_path = destination + \
-                                alias + ".md"
-                            os.symlink(program_name + ".md", alias_path)
+                        alias_path = destination + \
+                            alias + ".md"
+                        os.symlink(program_name + ".md", alias_path)
 
                 except KeyError:
                     pass
