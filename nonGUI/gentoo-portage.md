@@ -2,7 +2,7 @@
 
 > Source: https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet#Portage_package_management
 
-> Aliases: portage, gentoo, emerge, gentoo-package-management
+> Aliases: gentoo, portage, emerge, gentoo-package-management
 
 $ Package Installation/Removal
     `emerge www-client/firefox     {{Install a package and its dependencies}} 

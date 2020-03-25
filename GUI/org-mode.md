@@ -2,7 +2,7 @@
 
 > Source: http://orgmode.org/orgcard.pdf
 
-> Aliases: org-mode, orgmode
+> Aliases: orgmode
 
 $ Timestamps
     `C-c .                         {{prompt for date and insert timestamp}} 

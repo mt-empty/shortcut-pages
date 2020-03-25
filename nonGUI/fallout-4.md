@@ -2,7 +2,7 @@
 
 > Source: https://fallout4.com/
 
-> Aliases: fo4, fallout4
+> Aliases: fallout4, fo4
 
 $ Movement
     `W                             {{Forward}} 

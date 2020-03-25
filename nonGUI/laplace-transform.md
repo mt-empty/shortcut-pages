@@ -2,7 +2,7 @@
 
 > Source: http://tutorial.math.lamar.edu/pdf/Laplace_Table.pdf
 
-> Aliases: laplace-transform-table, laplace-rules, laplace, laplace-identities, laplace-transforms, laplace-table
+> Aliases: laplace-transforms, laplace, laplace-rules, laplace-identities, laplace-table, laplace-transform-table
 
 $ Common Transforms
     `L( 1 )                        {{1 / s}} 

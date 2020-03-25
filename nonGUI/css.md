@@ -2,7 +2,7 @@
 
 > Source: http://www.w3schools.com/css/default.asp
 
-> Aliases: style-sheet, cascading-style-sheets
+> Aliases: cascading-style-sheets, style-sheet
 
 $ Inserting Stylesheet
     `<link rel="stylesheet" type="text/css" href="style.css" />

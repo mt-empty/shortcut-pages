@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/algorithm/
 
-> Aliases: c++-algorithm, c++-algorithms, cpp-algo, c++-algo, cpp-algorithm
+> Aliases: cpp-algorithm, cpp-algo
 
 $ Non-Modifying sequence operations
     `all_of (foo.begin(), foo.end(), pred)

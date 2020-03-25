@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Hangul
 
-> Aliases: choson-muncha, choson-muntcha, choson-gul, hangul, choson'gul, korean-alphabet
+> Aliases: hangul, korean-alphabet, choson-gul, choson-muntcha, choson-muncha
 
 $ Consonants (자음/子音)
     `ㄱ                             {{Giyeok (기역): g [k]}} 

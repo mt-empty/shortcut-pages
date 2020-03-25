@@ -2,7 +2,7 @@
 
 > Source: http://d3js.org/
 
-> Aliases: d3-js, d3, datadrivendocument, data-driven-document
+> Aliases: d3, datadrivendocument, data-driven-document, d3-js
 
 $ Axes
     `d3.svg.axis()                 {{Creates a new axis generator function}} 

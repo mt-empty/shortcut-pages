@@ -2,7 +2,7 @@
 
 > Source: http://haxe.org/manual/types-numeric-operators.html
 
-> Aliases: haxelang-operators, haxe-ops, haxelang-ops
+> Aliases: haxe-ops, haxelang-ops, haxelang-operators
 
 $ Arithmetic
     `++                            {{increment (unary, post- & pre-fix)}} 

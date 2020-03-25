@@ -1,6 +1,6 @@
 # SMS Language
 
-> Aliases: sms-acronyms, sms-language
+> Aliases: sms-language, sms-acronyms
 
 $ 0-9
     `2DAY                          {{Today}} 

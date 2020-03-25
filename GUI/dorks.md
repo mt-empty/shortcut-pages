@@ -2,7 +2,7 @@
 
 > Source: https://duck.co/help/results/syntax
 
-> Aliases: show-dorks, search-hacking, duckduckgo-dorks, search-online, dork
+> Aliases: dork, show-dorks, search-hacking, search-online, duckduckgo-dorks
 
 $ Dorks
     `-                             {{Exclude results containing the string. E. g.: San Francisco -california}} 

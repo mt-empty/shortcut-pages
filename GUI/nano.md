@@ -2,7 +2,7 @@
 
 > Source: http://www.nano-editor.org/
 
-> Aliases: nano-editor, nano-linux, nano-unix, nano-text, nano-gnu
+> Aliases: nano-editor, nano-text, nano-linux, nano-unix, nano-gnu
 
 $ Info
     `Ctrl G                        {{Show help menu}} 

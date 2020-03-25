@@ -2,7 +2,7 @@
 
 > Source: https://docs.scipy.org/doc/numpy/reference/
 
-> Aliases: numpy-python, numpy-python-module, numpy-tutorial, numpy-package
+> Aliases: numpy-tutorial, numpy-package, numpy-python, numpy-python-module
 
 $ Load NumPy
     `import numpy as np            {{Conveniently imports the package with all the available NumPy modules}} 

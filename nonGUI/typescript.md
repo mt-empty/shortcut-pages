@@ -2,7 +2,7 @@
 
 > Source: http://www.typescriptlang.org/Handbook
 
-> Aliases: type-script-lang, typescript-lang, type-script
+> Aliases: type-script, typescript-lang, type-script-lang
 
 $ Primitive Types
     `any                           {{Any type (explicitly untyped)}} 

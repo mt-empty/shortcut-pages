@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/unordered_map/unordered_multimap/
 
-> Aliases: c++-unordered-multimap, c++-unordered-multimap-container, c++-unordered-multimaps, cpp-unordered-multimaps, cpp-unordered-multimap-container, c++-unordered-multimaps-container, cpp-unordered-multimaps-container
+> Aliases: cpp-unordered-multimaps, cpp-unordered-multimap-container, cpp-unordered-multimaps-container
 
 $ Capacity
     `myumm.empty()                 {{Returns a bool value indicating whether the unordered_multimap container is empty, i.e. whether its size is 0}} 

@@ -2,8 +2,6 @@
 
 > Source: http://www.cplusplus.com/reference/complex/
 
-> Aliases: c++-complex-number, c++-complex-numbers, c++-complex-library, c++-complex
-
 $ Complex values
     `std::real (x)                 {{Returns real part of complex number x}} 
     `std::imag (x)                 {{Returns imaginary part of complex number x}} 

@@ -2,7 +2,7 @@
 
 > Source: http://folk.ntnu.no/joern/itgk/refcard-a4.pdf
 
-> Aliases: gnu-octave-programming, octave-language, octave-programming, gnu-octave
+> Aliases: octave-language, gnu-octave, gnu-octave-programming, octave-programming
 
 $ Starting Octave
     `octave                        {{Start interactive Octave session}} 

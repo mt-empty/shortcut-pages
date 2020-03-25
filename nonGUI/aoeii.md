@@ -2,7 +2,7 @@
 
 > Source: http://www.angelfire.com/biz5/age2/hotkeys.html
 
-> Aliases: aoeiihd, age-of-empires-ii, age-of-empires-2, aoe
+> Aliases: aoeiihd, aoe, age-of-empires-2, age-of-empires-ii
 
 $ Unit Commands
     `T                             {{Attack Ground}} 

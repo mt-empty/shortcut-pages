@@ -2,7 +2,7 @@
 
 > Source: http://vim.rtorr.com
 
-> Aliases: gvim, vim-beginner, vile, neovim, nvi, nvim, elvis
+> Aliases: nvim, neovim, gvim, nvi, elvis, vile, vim-beginner
 
 $ Tabs
     `#gt                           {{move to tab number #}} 

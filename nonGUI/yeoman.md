@@ -2,8 +2,6 @@
 
 > Source: http://yeoman.io/learning/index.html
 
-> Aliases: 
-
 $ Getting Started
     `npm install -g yo             {{Install yo, the command line utility for Yeoman}} 
     `npm install -g <generator_name>

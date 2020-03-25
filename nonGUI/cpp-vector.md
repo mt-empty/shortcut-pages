@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/vector/vector/
 
-> Aliases: cpp-vectors, c++-vectors, c++-vector
+> Aliases: cpp-vectors
 
 $ Iterators
     `myvector.begin()              {{Returns an iterator pointing to the first element in the vector}} 

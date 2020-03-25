@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/set/multiset/
 
-> Aliases: c++-multiset, cpp-multiset-container, cpp-multisets, c++-multiset-container, c++-multisets
+> Aliases: cpp-multisets, cpp-multiset-container
 
 $ Iterators
     `mymultiset.begin()            {{Returns an iterator referring to the first element in the multiset container}} 

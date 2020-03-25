@@ -2,7 +2,7 @@
 
 > Source: http://www.cheatography.com/kstep/cheat-sheets/http-status-codes/
 
-> Aliases: http-response-code, http-response-status-code, http-error-codes, http-error-code, http-response-status-codes, http-status-code, http-response-codes
+> Aliases: http-status-code, http-error-code, http-error-codes, http-response-codes, http-response-code, http-response-status-codes, http-response-status-code
 
 $ HTTP Informational Codes (1xx)
     `100                           {{Continue}} 

@@ -2,7 +2,7 @@
 
 > Source: https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/
 
-> Aliases: python-notebook, jupyter, ipython-notebook
+> Aliases: ipython-notebook, jupyter, python-notebook
 
 $ Command Mode (press Esc to enable)
     `Enter                         {{enter edit mode}} 

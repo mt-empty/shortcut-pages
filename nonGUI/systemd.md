@@ -2,7 +2,7 @@
 
 > Source: https://www.cheatography.com/tme520/cheat-sheets/systemd/
 
-> Aliases: system-services, system-manager, system-service, systemctl
+> Aliases: systemctl, system-services, system-service, system-manager
 
 $ Services Management
     `systemctl start <SERVICE>     {{Start a SERVICE (not reboot persistent) Ex: systemctl start httpd.service}} 

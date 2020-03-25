@@ -2,7 +2,7 @@
 
 > Source: https://www.haskell.org
 
-> Aliases: haskell-repl, ghci
+> Aliases: ghci, haskell-repl
 
 $ Commands available from the prompt
     `<statement>                   {{evaluate/run <statement>}} 

@@ -2,7 +2,7 @@
 
 > Source: https://www.perforce.com
 
-> Aliases: perforce-command-line-client, p4, p4-command-line
+> Aliases: p4, perforce-command-line-client, p4-command-line
 
 $ Develop
     `p4 add                        {{Open a new file to add it to the depot}} 

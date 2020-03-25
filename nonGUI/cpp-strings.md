@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/string/string/
 
-> Aliases: cpp-string, c++-strings, c++-string
+> Aliases: cpp-string
 
 $ Constructors
     `std::string str ("Another character sequence");

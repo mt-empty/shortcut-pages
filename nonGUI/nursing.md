@@ -2,7 +2,7 @@
 
 > Source: https://nurseslabs.com/tag/cheat-sheets/
 
-> Aliases: dosage-calculation, nursing-calculation, dosage-conversion, nursing-dosage, dosage-math, lab-values, nursing-math, dosage
+> Aliases: dosage-calculation, dosage-conversion, dosage, dosage-math, nursing-math, nursing-dosage, nursing-calculation, lab-values
 
 $ Abbreviations
     `cc                            {{cubic centimeter}} 

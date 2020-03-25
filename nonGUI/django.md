@@ -2,7 +2,7 @@
 
 > Source: https://docs.djangoproject.com/en/1.9/
 
-> Aliases: django-admin, django-query, django-lookups, python-django, django-queryset, pydjango
+> Aliases: pydjango, python-django, django-lookups, django-admin, django-queryset, django-query
 
 $ Django Admin/Manage.py Commands
     `django-admin help             {{display usage information and a list of the commands provided by each application}} 

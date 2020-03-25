@@ -2,7 +2,7 @@
 
 > Source: http://docs.ruby-lang.org/en/trunk/globals_rdoc.html
 
-> Aliases: ruby-global-constant, ruby-global-constants, ruby-global, ruby-global-variable, ruby-global-variables
+> Aliases: ruby-global-constant, ruby-global-constants, ruby-global-variable, ruby-global-variables, ruby-global
 
 $ Short Variables
     `$!                            {{Last raised exception}} 

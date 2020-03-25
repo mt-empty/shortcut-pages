@@ -2,8 +2,6 @@
 
 > Source: http://www.cplusplus.com/reference/map/multimap/
 
-> Aliases: c++-multimaps, c++-multimap
-
 $ Iterators
     `mymultimap.begin()            {{Returns an iterator referring to the first element in the multimap container}} 
     `mymultimap.end()              {{Returns an iterator referring to the past-the-end element in the multimap container}} 

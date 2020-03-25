@@ -2,7 +2,7 @@
 
 > Source: http://aws.amazon.com/documentation/ec2/
 
-> Aliases: amazon-elastic-compute-cloud, amazon-ec2, ec2
+> Aliases: amazon-ec2, ec2, amazon-elastic-compute-cloud
 
 $ Resource Glossary
     `Amazon Machine Image (AMI)    {{Provides information required to launch an instance. Contains a template for the root volume of an instance, launch permissions, and a block device mapping. (Tagable)}} 

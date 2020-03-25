@@ -2,7 +2,7 @@
 
 > Source: https://docs.unity3d.com/ScriptReference/
 
-> Aliases: unity-game-engine, unity-engine
+> Aliases: unity-engine, unity-game-engine
 
 $ MonoBehaviour
     `Awake()                       {{Awake is called when the script instance is being loaded}} 

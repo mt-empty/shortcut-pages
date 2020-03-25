@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/iolibrary/
 
-> Aliases: c++-iostream, cpp-io, cin-and-cout-library-file-in-c++, cout-library-file, c++-input-output, c++-language-io, cpp-language-io, c++-io, cpp-iostream, c++-streams-io, cin-library-file
+> Aliases: cpp-iostream, cin-library-file, cout-library-file, cpp-language-io, cpp-io
 
 $ iostream library objects
     `cin                           {{Standard input stream}} 

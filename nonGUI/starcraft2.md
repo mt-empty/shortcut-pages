@@ -2,7 +2,7 @@
 
 > Source: http://us.battle.net/sc2/en/blog/9135373/game-guide-starcraft-ii-cheat-codes-3-1-2012
 
-> Aliases: star-craft-ii, starcraft-ii, star-craft-2, starcraft-2, sc2
+> Aliases: starcraft-2, star-craft-2, starcraft-ii, star-craft-ii, sc2
 
 $ Units
     `TerribleTerribleDamage        {{Units enter God Mode}} 

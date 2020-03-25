@@ -2,7 +2,7 @@
 
 > Source: https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts
 
-> Aliases: dev-tool, dev-tools, chrome-tools, chrome-dev-tool, chrome-dev
+> Aliases: chrome-dev-tool, chrome-dev, chrome-tools, dev-tool, dev-tools
 
 $ Basic
     `Ctrl Shift I                  {{Opens Developer Tools (Windows/Linux)}} 

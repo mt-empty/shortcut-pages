@@ -2,7 +2,7 @@
 
 > Source: https://en.wikibooks.org/wiki/LaTeX
 
-> Aliases: tex-doc, tex-document-writing, latex-doc, tex, latex-document-writing, tex-writing, latex-doc-writing, latex-writing, latex-document, tex-doc-writing
+> Aliases: tex, latex-document, latex-doc, latex-writing, latex-document-writing, latex-doc-writing, tex-doc, tex-writing, tex-document-writing, tex-doc-writing
 
 $ Relation operators
     `<                             {{Is less than}} 

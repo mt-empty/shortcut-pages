@@ -2,7 +2,7 @@
 
 > Source: http://overapi.com/javascript
 
-> Aliases: java-script, js
+> Aliases: js, java-script
 
 $ Array Methods
     `concat()                      {{Joins two or more arrays, and returns a copy of the joined arrays}} 

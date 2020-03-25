@@ -2,7 +2,7 @@
 
 > Source: http://theportalwiki.com/wiki/List_of_default_keys
 
-> Aliases: portal2, portal-2
+> Aliases: portal-2, portal2
 
 $ Movement
     `W                             {{Move forward}} 

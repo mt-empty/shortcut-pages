@@ -2,7 +2,7 @@
 
 > Source: http://www.prokabaddi.com/prokabaddi-rules
 
-> Aliases: kabaddi, terms-used-in-kabaddi, kabaddi-words, kabaddi-definitions
+> Aliases: kabaddi, kabaddi-words, kabaddi-definitions, terms-used-in-kabaddi
 
 $ Court related terms
     `Field of Play                 {{The area which shall be covered with the AKFI approved playing mats measuring a minimum of 17 meters x 18 meters and maximum of 20 meters x 20 meters.}} 

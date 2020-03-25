@@ -2,7 +2,7 @@
 
 > Source: http://docs.splunk.com/Documentation/Splunk/latest/SearchReference/CommonEvalFunctions
 
-> Aliases: splunk-functions, splunk-evaluation, splunk-eval, splunk-where
+> Aliases: splunk-eval, splunk-evaluation, splunk-where, splunk-functions
 
 $ Comparison and Conditional Functions
     `case(X,"Y",...)               {{... | eval description=case(error == 404, "Not found", error == 500, "Internal Server Error", error == 200, "OK")}} 

@@ -2,7 +2,7 @@
 
 > Source: http://www.mainframes.com/Commands.html
 
-> Aliases: mainframe-cli, main-frame
+> Aliases: main-frame, mainframe-cli
 
 $ Job Entry Subsystem 2 (JES2)
     `$DSPL,JOBS=5                  {{Display all jobs using 5% or more of the spool}} 

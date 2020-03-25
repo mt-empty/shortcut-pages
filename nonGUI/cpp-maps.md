@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/map/map/
 
-> Aliases: c++-map, cpp-map, c++-maps
+> Aliases: cpp-map
 
 $ Iterators
     `mymap.begin()                 {{Returns an iterator referring to the first element in the map container}} 

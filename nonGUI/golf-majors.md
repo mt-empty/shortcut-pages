@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Men%27s_major_golf_championships
 
-> Aliases: mens-major-golf-championships, mens-golf-majors, men's-golf-majors, men's-major-golf-championships, major-golf-championships
+> Aliases: mens-golf-majors, major-golf-championships, mens-major-golf-championships
 
 $ The Majors
     `The Masters Championship      {{April - Augusta National Golf Club}} 

@@ -2,7 +2,7 @@
 
 > Source: https://github.com/telegramdesktop/tdesktop/wiki/Keyboard-Shortcuts
 
-> Aliases: telegramdesktop, desktoptelegram, telegram-messenger-desktop, desktop-telegram
+> Aliases: telegramdesktop, telegram-messenger-desktop, desktop-telegram, desktoptelegram
 
 $ Common Shortcuts
     `Alt ↑                         {{Move to next chat}} 

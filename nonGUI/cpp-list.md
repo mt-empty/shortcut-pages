@@ -2,8 +2,6 @@
 
 > Source: http://www.cplusplus.com/reference/forward_list/forward_list/
 
-> Aliases: cpp-<list>-library, c++-list-library, c++-lists, c++-<list>, c++-list
-
 $ Iterators
     `mylist.begin()                {{Returns an iterator pointing to the first element in the list container}} 
     `mylist.end()                  {{Returns an iterator referring to the past-the-end element in the list container}} 

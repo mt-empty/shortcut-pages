@@ -2,7 +2,7 @@
 
 > Source: http://www-tc.pbs.org/strangedays/pdf/StrangeDaysSmartPlasticsGuide.pdf
 
-> Aliases: resin-recycling, resin-recycle, recycle-numbers, plastic-recycle, plastic-recycling, recycle-number, plastic-numbers, resin-number, resin, plastic, plastic-number, resin-numbers
+> Aliases: resin, resin-numbers, resin-number, resin-recycling, resin-recycle, plastic, plastic-recycle, recycle-numbers, recycle-number, plastic-number, plastic-numbers, plastic-recycling
 
 $ Resin Numbers
     `1                             {{PolyEthylene Terephthalate (PET)}} 

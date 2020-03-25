@@ -2,7 +2,7 @@
 
 > Source: https://msdn.microsoft.com/en-us/library/da5kh0wa.aspx
 
-> Aliases: visualstudio, microsoft-visual-studio, vs2015, ms-vs, vs
+> Aliases: vs, vs2015, ms-vs, microsoft-visual-studio, visualstudio
 
 $ Build
     `Ctrl Shift B                  {{Build Solution}} 

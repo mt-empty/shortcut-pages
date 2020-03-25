@@ -2,7 +2,7 @@
 
 > Source: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
-> Aliases: html-5, html5
+> Aliases: html5, html-5
 
 $ Document Metadata
     `<head>                        {{Provides metadata about the document, including its title, scripts and style sheets}} 

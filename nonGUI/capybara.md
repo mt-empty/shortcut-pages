@@ -2,8 +2,6 @@
 
 > Source: http://www.rubydoc.info/github/teamcapybara/capybara/master
 
-> Aliases: 
-
 $ Navigating
     `visit('/projects')            {{Navigate to a path}} 
     `page.current_path             {{Get current page path}} 

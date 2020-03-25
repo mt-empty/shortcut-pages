@@ -2,7 +2,7 @@
 
 > Source: https://qutebrowser.org/doc/quickstart.html
 
-> Aliases: qb, qute-browser, qute
+> Aliases: qute-browser, qute, qb
 
 $ Page Scrolling
     `j                             {{scroll down}} 

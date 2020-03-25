@@ -2,7 +2,7 @@
 
 > Source: http://thejackol.com/htaccess-cheatsheet/
 
-> Aliases: htaccess-file, .htaccess, server-htaccess-file, htaccess-apache, server-htaccess, htaccess-files, apache-htaccess
+> Aliases: apache-htaccess, htaccess-apache, htaccess-files, htaccess-file, server-htaccess, server-htaccess-file, .htaccess
 
 $ Basic
     `Options +Indexes

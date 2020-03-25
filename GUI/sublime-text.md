@@ -2,7 +2,7 @@
 
 > Source: http://www.cheatography.com
 
-> Aliases: sublime, sublime2, sublime-text2, sublime-text-2, sublimetext2, sublimetext, sublime-2
+> Aliases: sublime, sublime-text-2, sublimetext, sublimetext2, sublime-text2, sublime2, sublime-2
 
 $ General
     `Ctrl N                        {{New file in new tab}} 

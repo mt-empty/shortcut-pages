@@ -2,7 +2,7 @@
 
 > Source: https://www.gnu.org/software/grep/manual/grep.html
 
-> Aliases: grep-overview, grep-options, grep-command
+> Aliases: grep-command, grep-overview, grep-options
 
 $ Basic Usage
     `grep 'string' 'options' filename1 filename2 ...

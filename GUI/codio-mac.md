@@ -1,6 +1,6 @@
 # Codio Shortcuts (Mac)
 
-> Aliases: codio-osx, codio-apple, codio-mac-osx, codio-mac-os, codio-os-x
+> Aliases: codio-osx, codio-os-x, codio-mac-os, codio-apple, codio-mac-osx
 
 $ Editor
     `^ Space                       {{Show auto-completions}} 

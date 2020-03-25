@@ -2,7 +2,7 @@
 
 > Source: https://help.gnome.org/users/gedit/stable/gedit-shortcut-keys.html.en
 
-> Aliases: gedit-text-editor, gedit-editor
+> Aliases: gedit-editor, gedit-text-editor
 
 $ Tabs Related
     `Ctrl Alt PageUp               {{Switch to the next tab to the left}} 

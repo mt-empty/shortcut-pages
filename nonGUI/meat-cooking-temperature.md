@@ -2,7 +2,7 @@
 
 > Source: http://www.foodnetwork.com/recipes/articles/meat-and-poultry-temperature-guide.html
 
-> Aliases: turkey-temperature, lamb-cooking-temperature, chicken-cooking-temperature, pork-cooking-temperature, beef-cooking-temperature, lamb-temperature, poultry-temperature, turkey-cooking-temperature, chicken-temperature, meat-temperature, poultry-cooking-temperature, pork-temperature, beef-temperature, meat-internal-temperature
+> Aliases: meat-temperature, meat-internal-temperature, chicken-temperature, chicken-cooking-temperature, poultry-temperature, poultry-cooking-temperature, turkey-temperature, turkey-cooking-temperature, beef-temperature, beef-cooking-temperature, lamb-temperature, lamb-cooking-temperature, pork-temperature, pork-cooking-temperature
 
 $ Beef & Lamb
     `Rare                          {{125°F (52°C) + 3 minute rest}} 

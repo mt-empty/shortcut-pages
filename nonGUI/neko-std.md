@@ -2,7 +2,7 @@
 
 > Source: http://nekovm.org/doc/libs#types
 
-> Aliases: neko-types, neko-standard-lib, neko-standard-libraries, neko-standard-libs, neko-type, neko-std-types, neko-standard-library-types, neko-standard-types, neko-classes, neko-modules, neko-standard-library
+> Aliases: neko-type, neko-types, neko-modules, neko-classes, neko-std-types, neko-standard-types, neko-standard-library-types, neko-standard-library, neko-standard-libraries, neko-standard-lib, neko-standard-libs
 
 $ Values
     `int                           {{31 bits integer in decimal form (12345) or hexadecimal (0x1A2B3C4D)}} 

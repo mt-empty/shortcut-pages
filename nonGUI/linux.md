@@ -2,7 +2,7 @@
 
 > Source: http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
 
-> Aliases: gnu-linux, unix, gnu/linux
+> Aliases: gnu-linux, unix
 
 $ Navigation
     `ls                            {{List directory contents}} 

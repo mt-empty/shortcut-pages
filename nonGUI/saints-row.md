@@ -2,7 +2,7 @@
 
 > Source: http://www.cheatcc.com/ps3/saintsrow4cheatscodes.html
 
-> Aliases: sr-4, saints-row-4
+> Aliases: saints-row-4, sr-4
 
 $ All Unlockables
     `unlockitall                   {{All Unlockables}} 

@@ -2,7 +2,7 @@
 
 > Source: http://docs.meteor.com/#/full/
 
-> Aliases: meteor-framework, meteorjs, meteor.js
+> Aliases: meteorjs, meteor.js, meteor-framework
 
 $ Getting Started
     `meteor create <app-name>      {{Create a new Meteor app}} 

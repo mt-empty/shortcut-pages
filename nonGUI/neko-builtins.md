@@ -2,7 +2,7 @@
 
 > Source: http://nekovm.org/doc/view/builtins
 
-> Aliases: neko-built-ins, neko-builtin-functions, neko-operations, neko-functions, neko-built-in-functions
+> Aliases: neko-built-ins, neko-functions, neko-operations, neko-builtin-functions, neko-built-in-functions
 
 $ Array
     `array $array(any*)            {{Create an array from a list of values}} 

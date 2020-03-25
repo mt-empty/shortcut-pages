@@ -2,7 +2,7 @@
 
 > Source: http://ruby-doc.org/
 
-> Aliases: rdoc, ruby-language
+> Aliases: ruby-language, rdoc
 
 $ String Methods
     `upcase                        {{Returns a copy of string with all lowercase letters replaced with their uppercase counterparts}} 

@@ -2,7 +2,7 @@
 
 > Source: https://dnd.wizards.com/products/tabletop/players-basic-rules
 
-> Aliases: d&d5e, dnd5e, d&d-5e, dnd-5e
+> Aliases: dnd5e, dnd-5e
 
 $ Proficiency Bonus
     `Levels 1-4                    {{+2}} 

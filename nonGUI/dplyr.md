@@ -2,7 +2,7 @@
 
 > Source: https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 
-> Aliases: data-munging-in-r, data-cleaning-in-r, dplyr-syntax, data-wrangling-in-r
+> Aliases: dplyr-syntax, data-wrangling-in-r, data-cleaning-in-r, data-munging-in-r
 
 $ Basics
     `dplyr::tbl_df(iris)           {{Converts data to tbl class. tbl's are easier to examine than data frames}} 

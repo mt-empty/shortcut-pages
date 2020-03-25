@@ -2,7 +2,7 @@
 
 > Source: http://compsoc.dur.ac.uk/whitespace/tutorial.html
 
-> Aliases: white-space, whitespace-language, white-space-language
+> Aliases: white-space, white-space-language, whitespace-language
 
 $ Instruction Modification Parameter (IMP)
     `<Space>                       {{Stack Manipulation}} 

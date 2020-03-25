@@ -2,7 +2,7 @@
 
 > Source: http://www.ufc.com/discover/sport/weight-classes
 
-> Aliases: ufc-weight-divisions, ufc-weight, ufc-weight-class, mma-weights
+> Aliases: mma-weights, ufc-weight-divisions, ufc-weight, ufc-weight-class
 
 $ UFC Weight Limits By Division
     `Strawweight                   {{115 pounds}} 

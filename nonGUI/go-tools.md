@@ -2,7 +2,7 @@
 
 > Source: https://golang.org/pkg/
 
-> Aliases: go-tool, golang-tools, golang-tool
+> Aliases: go-tool, golang-tool, golang-tools
 
 $ Tools
     `gofmt                         {{It formats code according to the acceptable way of formatting}} 

@@ -2,7 +2,7 @@
 
 > Source: https://www.gnu.org/software/bash/
 
-> Aliases: sh, posix-shell, shell, shell-language
+> Aliases: shell, shell-language, posix-shell, sh
 
 $ Lingo
     `C                             {{Ctrl}} 

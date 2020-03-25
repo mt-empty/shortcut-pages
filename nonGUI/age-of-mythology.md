@@ -2,7 +2,7 @@
 
 > Source: http://aom.heavengames.com/gameinfo/cheats
 
-> Aliases: age-of-mythology-wood, age-of-mythology-extra-food, age-of-mythology-codes, age-of-mythology-more-gold
+> Aliases: age-of-mythology-codes, age-of-mythology-extra-food, age-of-mythology-wood, age-of-mythology-more-gold
 
 $ Resources
     `ATM OF EREBUS                 {{1000 Gold}} 

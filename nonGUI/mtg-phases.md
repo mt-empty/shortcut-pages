@@ -2,7 +2,7 @@
 
 > Source: http://archive.wizards.com/Magic/tcg/article.aspx?x=magic/rules
 
-> Aliases: mtg-turn-structure, magic-the-gathering-turn-structure, magic-the-gathering-phases
+> Aliases: mtg-turn-structure, magic-the-gathering-phases, magic-the-gathering-turn-structure
 
 $ Beginning Phase
     `Untap Step                    {{The active player untaps the permanents they control. The active player doesn't receive priority.}} 

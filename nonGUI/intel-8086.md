@@ -2,7 +2,7 @@
 
 > Source: http://users.utcluj.ro/~elupu/Curs/fileloader.php?fileName=upload/Cursuri/Univ.Nord_BM1/Curs_5/8086_instruction_set.pdf
 
-> Aliases: 8086-instructionset, 8086-instruction-set, 8086, 8086-programming, 8086-instructions
+> Aliases: 8086, 8086-instructionset, 8086-instruction-set, 8086-programming, 8086-instructions
 
 $ Data Transfer Instructions
     `MOV Destination, Source       {{Copies a word or byte of data from 'source' to 'destination'}} 

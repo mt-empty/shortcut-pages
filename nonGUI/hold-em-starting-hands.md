@@ -2,7 +2,7 @@
 
 > Source: http://www.suntzupoker.com/poker-odds.aspx
 
-> Aliases: holdem-starting-hands, nl-hold'em-starting-hands, nl-hold'em-pre-flop-hands, hold'em-starting-hands, no-limit-holdem-starting-hands, nl-holdem-preflop-hands, texas-holdem-pre-flop-hands, hold'em-pre-flop-hands, no-limit-holdem-preflop-hands, no-limit-holdem-pre-flop-hands, nl-hold'em-preflop-hands, nl-holdem-starting-hands, texas-holdem-starting-hands, no-limit-hold'em-starting-hands, nl-holdem-pre-flop-hands, texas-hold'em-starting-hands, texas-holdem-preflop-hands, hold'em-preflop-hands
+> Aliases: holdem-starting-hands, no-limit-holdem-starting-hands, texas-holdem-starting-hands, texas-holdem-pre-flop-hands, texas-holdem-preflop-hands, no-limit-holdem-pre-flop-hands, no-limit-holdem-preflop-hands, nl-holdem-starting-hands, nl-holdem-preflop-hands, nl-holdem-pre-flop-hands
 
 $ Hands
     `Pocket Aces                   {{220 to 1 or 0.45% chance of being dealt}} 

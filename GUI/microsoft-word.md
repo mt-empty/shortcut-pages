@@ -2,7 +2,7 @@
 
 > Source: http://www.dummies.com/how-to/content/word-2010-for-dummies-cheat-sheet.html
 
-> Aliases: winword, ms-word
+> Aliases: ms-word, winword
 
 $ Common Tasks
     `Ctrl S                        {{Save}} 

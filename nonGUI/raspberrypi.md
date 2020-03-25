@@ -2,7 +2,7 @@
 
 > Source: https://gist.github.com/hofmannsven/9132419
 
-> Aliases: raspberry-pi, raspberry-functions, raspberry, raspberry-toolkit, raspi
+> Aliases: raspberry, raspberry-functions, raspberry-toolkit, raspberry-pi, raspi
 
 $ Setup
     `arp -a                        {{Find all available devices}} 

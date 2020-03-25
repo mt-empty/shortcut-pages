@@ -1,6 +1,6 @@
 # Window Managers
 
-> Aliases: window-manager-list, window-manager
+> Aliases: window-manager, window-manager-list
 
 $ Active 1
     `AfterStep                     {{AfterStep is a stacking window manager for the X Window System. The goal of AfterStep's development is to provide for flexibility of desktop configuration, improved aesthetics and efficient use of system resources, and was used in such distributions as MachTen}} 

@@ -2,8 +2,6 @@
 
 > Source: http://pokercheatsheet.net/
 
-> Aliases: texas-hold'em
-
 $ Poker hands
     `Royal Flush                   {{10 to Ace, of same suit}} 
     `Straight Flush                {{Any sequence of five in the same suit}} 

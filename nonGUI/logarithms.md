@@ -2,7 +2,7 @@
 
 > Source: http://www.scribd.com/doc/35437169/Logarithm-Cheat-Sheet
 
-> Aliases: logarithm, log-identities, logarithm-rules, logarithmic-identities, logarithms-rules, logarithm-identities, log-rules
+> Aliases: logarithmic-identities, logarithms-rules, logarithm-identities, logarithm-rules, log-identities, log-rules, logarithm
 
 $ Calculus
     `d(a ͯ)/dx                     {{a ͯlna}} 

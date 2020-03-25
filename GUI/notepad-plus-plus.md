@@ -2,7 +2,7 @@
 
 > Source: https://notepad-plus-plus.org/resources.html
 
-> Aliases: notepadplusplus, notepad++, notepad-plus, notepadplus, np++
+> Aliases: notepadplus, notepad-plus, notepadplusplus
 
 $ File Manipulation
     `Ctrl Shift S                  {{Save all}} 

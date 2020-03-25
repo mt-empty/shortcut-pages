@@ -2,7 +2,7 @@
 
 > Source: http://imaginegen.github.io/main/2016/02/22/webcomics-reference.html
 
-> Aliases: webcomics-docs, webcomics-spec, webcomics-documentation
+> Aliases: webcomics-spec, webcomics-documentation, webcomics-docs
 
 $ Comics Directory
     `return_an_array_of_comics_entries(directory)

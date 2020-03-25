@@ -2,7 +2,7 @@
 
 > Source: https://technet.microsoft.com/en-us/library/cc766465(v=ws.10).aspx
 
-> Aliases: cmd-diskpart, windows-diskpart-command
+> Aliases: windows-diskpart-command, cmd-diskpart
 
 $ Create a new partition and format a partition
     `SELECT DISK                   {{Selects the specified disk and shifts the focus to it.}} 

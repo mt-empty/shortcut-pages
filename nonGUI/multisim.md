@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/NI_Multisim
 
-> Aliases: multisim-details, multisim-syntax
+> Aliases: multisim-syntax, multisim-details
 
 $ Keyboard Shortcuts
     `Select multiple objects       {{Shift-Click}} 

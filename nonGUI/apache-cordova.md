@@ -2,7 +2,7 @@
 
 > Source: https://cordova.apache.org/docs/en/latest/guide/cli/index.html
 
-> Aliases: phonegap, cordova
+> Aliases: cordova, phonegap
 
 $ Create a Project
     `cordova create hello com.example.hello HelloWorld

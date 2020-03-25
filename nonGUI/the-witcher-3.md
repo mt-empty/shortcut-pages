@@ -2,7 +2,7 @@
 
 > Source: http://www.thewitcher.com/
 
-> Aliases: witcher-3, wild-hunt, witcher-wild-hunt
+> Aliases: witcher-3, witcher-wild-hunt, wild-hunt
 
 $ Movement
     `W                             {{Up}} 

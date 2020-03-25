@@ -2,7 +2,7 @@
 
 > Source: http://en.cppreference.com/w/c/language/arithmetic_types
 
-> Aliases: c-data-types-sizes, data-types-in-c, c-data-types, c-data-types-size
+> Aliases: c-data-types, c-data-types-sizes, c-data-types-size, data-types-in-c
 
 $ Integer Type
     `short int                     {{2 Bytes, Range: -32768 to 32767}} 

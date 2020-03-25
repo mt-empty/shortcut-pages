@@ -2,7 +2,7 @@
 
 > Source: https://www.gamefaqs.com/pc/90380-age-of-empires/cheats
 
-> Aliases: aoe1, age-of-empires-resources, rise-of-rome
+> Aliases: aoe1, rise-of-rome, age-of-empires-resources
 
 $ Resources
     `PEPPERONI PIZZA               {{1000 food}} 

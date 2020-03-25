@@ -2,7 +2,7 @@
 
 > Source: https://www.wireshark.org/docs/man-pages/tshark.html
 
-> Aliases: terminal-wireshark, command-line-wireshark
+> Aliases: command-line-wireshark, terminal-wireshark
 
 $ Installation
     `sudo apt-get install tshark   {{Install TShark on Ubuntu}} 

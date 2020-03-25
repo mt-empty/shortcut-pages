@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/E_number
 
-> Aliases: e-numbers, flavour-enhancers, antioxidants, food-labels, food-additives, preservatives, acidity-regulators
+> Aliases: e-numbers, food-additives, food-labels, preservatives, antioxidants, acidity-regulators, flavour-enhancers
 
 $ 100-199 Colours
     `yellows                       {{100-109}} 

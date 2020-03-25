@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/bitset/bitset/
 
-> Aliases: cpp-bitset-container, c++-bitset, c++-bitset-container
+> Aliases: cpp-bitset-container
 
 $ Construct Bitset
     `std::bitset<4> foo            {{Constructs a bitset container object}} 

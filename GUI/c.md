@@ -2,7 +2,7 @@
 
 > Source: http://www.dummies.com/how-to/content/beginning-c-programming-for-dummies-cheat-sheet.html
 
-> Aliases: c-language, c-programming
+> Aliases: c-programming, c-language
 
 $ Arithmetic Operators
     `+a                            {{Unary plus (integer promotion)}} 

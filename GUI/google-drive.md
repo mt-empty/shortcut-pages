@@ -2,7 +2,7 @@
 
 > Source: https://support.google.com/drive/answer/2563044?hl=en
 
-> Aliases: g-drive, gdrive, drive-google, googledrive
+> Aliases: googledrive, drive-google, gdrive, g-drive
 
 $ Navigation and views
     `g n                           {{Go to navigation panel (folders list)}} 

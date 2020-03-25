@@ -2,7 +2,7 @@
 
 > Source: http://www.cs.ccu.edu.tw/~damon/oop/,c++refcard.pdf
 
-> Aliases: c++, c-plus-plus
+> Aliases: c-plus-plus
 
 $ Fundamental Data Types
     `char                          {{Character}} 

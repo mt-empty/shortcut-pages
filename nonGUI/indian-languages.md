@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Languages_with_official_status_in_India
 
-> Aliases: languages-of-india, languages-in-india
+> Aliases: languages-in-india, languages-of-india
 
 $ States (A-L)
     `Andhra Pradesh                {{Telugu}} 

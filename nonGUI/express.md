@@ -2,7 +2,7 @@
 
 > Source: http://expressjs.com/en/4x/api.html
 
-> Aliases: express-js, expressjs
+> Aliases: expressjs, express-js
 
 $ Express
     `var express = require('express'); var app = express();

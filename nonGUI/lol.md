@@ -2,7 +2,7 @@
 
 > Source: http://leagueoflegends.wikia.com/wiki/Hotkeys_and_commands
 
-> Aliases: league, league-of-legends
+> Aliases: league-of-legends, league
 
 $ Hotkeys
     `Q                             {{Use champion's 1st ability. For abilities that target a champion, you must follow this by either left-clicking the champion or pressing F1-F5 to target a team member. Same for W, E, and R.}} 

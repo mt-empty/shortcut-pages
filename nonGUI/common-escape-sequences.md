@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Escape_sequences_in_C
 
-> Aliases: common-escape-sequence, c#-escape-sequences, common-escape-seq, java-escape-sequences, c++-escape-sequences, python-escape-sequences, javascript-escape-sequences, c-escape-sequences
+> Aliases: common-escape-sequence, common-escape-seq, python-escape-sequences, java-escape-sequences, javascript-escape-sequences, c-escape-sequences
 
 $ Escape Sequences
     `\\\                           {{Backslash(\)}} 

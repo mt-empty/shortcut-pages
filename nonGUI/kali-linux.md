@@ -2,7 +2,7 @@
 
 > Source: http://null-byte.wonderhowto.com/how-to/hack-like-pro-ultimate-command-cheat-sheet-for-metasploits-meterpreter-0149146/
 
-> Aliases: kali-linux-commandline, kali
+> Aliases: kali, kali-linux-commandline
 
 $ Basic Commands
     `?                             {{help menu}} 

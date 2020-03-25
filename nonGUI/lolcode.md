@@ -2,7 +2,7 @@
 
 > Source: https://esolangs.org/wiki/LOLCODE
 
-> Aliases: lolcode-esolang, lolcode-language
+> Aliases: lolcode-language, lolcode-esolang
 
 $ Data Types
     `NOOB                          {{This is the untyped type. All declared variables without a value are of this type and their value is also NOOB}} 

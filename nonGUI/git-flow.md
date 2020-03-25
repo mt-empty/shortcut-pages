@@ -2,7 +2,7 @@
 
 > Source: https://danielkummer.github.io/git-flow-cheatsheet
 
-> Aliases: gf, git-flow
+> Aliases: gf
 
 $ Initialize
     `git flow init                 {{Initialize an existing git repository to use git flow.}} 

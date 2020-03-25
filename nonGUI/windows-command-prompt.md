@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Windows_Command_Prompt
 
-> Aliases: windows-cmd, cmd, windows-cmd-prompt, cmd-prompt
+> Aliases: cmd, windows-cmd, windows-cmd-prompt, cmd-prompt
 
 $ Keyboard Shortcuts
     `↓ / ↑                         {{Scroll through history of typed commands}} 

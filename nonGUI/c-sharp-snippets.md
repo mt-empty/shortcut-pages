@@ -2,8 +2,6 @@
 
 > Source: https://msdn.microsoft.com/en-us/library/z41h7fat.aspx
 
-> Aliases: visual-c#-snippets, visual-studio-c#-snippets, c#-snippets
-
 $ Directives
     `#if                           {{Creates a #if directive and a #endif directive. [ Valid locations to insert snippet: Anywhere ]}} 
     `#region                       {{Creates a #region directive and a #endregion directive. [ Valid locations to insert snippet: Anywhere. ]}} 

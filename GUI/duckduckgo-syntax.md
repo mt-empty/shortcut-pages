@@ -2,7 +2,7 @@
 
 > Source: https://duck.co/help/results/syntax
 
-> Aliases: duckduckgo-search, duckduckgo-search-syntax, ddg-search, duck-duck-go-search, duck-duck-go-search-syntax
+> Aliases: ddg-search, duck-duck-go-search, duckduckgo-search, duckduckgo-search-syntax, duck-duck-go-search-syntax
 
 $ Triggers
     `LeBron James news             {{Add "news" to your searches to generate instant-answer news results}} 

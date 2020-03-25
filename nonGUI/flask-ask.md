@@ -2,7 +2,7 @@
 
 > Source: https://alexatutorial.com/flask-ask/
 
-> Aliases: flask-alexa-skill-kit, python-flask-ask, flask-ask
+> Aliases: flask-alexa-skill-kit, python-flask-ask
 
 $ Installation
     `pip install flask-ask         {{Installs flask-ask}} 

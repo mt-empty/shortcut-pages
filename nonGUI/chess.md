@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Chess
 
-> Aliases: chess-gameplay, chess-pieces, chess-movement
+> Aliases: chess-pieces, chess-gameplay, chess-movement
 
 $ Pieces
     `♙ Pawn                        {{Moves forward one or two spaces in its first move; moves one space forward at a time thereafter. Captures pieces 1 square forward diagonally}} 

@@ -2,7 +2,7 @@
 
 > Source: https://docs.djangoproject.com/en/1.9/ref/models/fields/
 
-> Aliases: django-model-field, django-models, django-models-field, django-models-fields, django-model-fields, django-orm
+> Aliases: django-orm, django-models, django-model-field, django-models-field, django-model-fields, django-models-fields
 
 $ Field Types
     `AutoField                     {{An IntegerField that automatically increments according to available IDs}} 

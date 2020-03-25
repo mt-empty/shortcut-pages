@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 
-> Aliases: default-ports, udp-ports, tcp-ports, udp-port-numbers, network-ports, tcp-port-numbers
+> Aliases: default-ports, network-ports, tcp-ports, udp-ports, tcp-port-numbers, udp-port-numbers
 
 $ Well Known Ports (System Ports)
     `20                            {{FTP Data Transfer}} 

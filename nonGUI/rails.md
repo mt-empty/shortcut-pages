@@ -2,7 +2,7 @@
 
 > Source: http://api.rubyonrails.org/
 
-> Aliases: bundle, rails-4, ruby-on-rails, rake
+> Aliases: rails-4, ruby-on-rails, rake, bundle
 
 $ Rails Commands
     `rails new name                {{Creates a new Ruby on Rails application with the given name here.}} 

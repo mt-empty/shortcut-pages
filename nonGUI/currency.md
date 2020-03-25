@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Currency_symbol
 
-> Aliases: countries-and-currency, countries-and-currencies
+> Aliases: countries-and-currencies, countries-and-currency
 
 $ Africa
     `Algeria                       {{دج (Dinar)}} 

@@ -2,7 +2,7 @@
 
 > Source: http://docs.seleniumhq.org/docs/
 
-> Aliases: seleniumhq, selenium-webdriver, seleniumhq-python, python-selenium, selenium-python, selenium-webdriver-python
+> Aliases: selenium-webdriver, seleniumhq, selenium-python, python-selenium, seleniumhq-python, selenium-webdriver-python
 
 $ Installing Selenium WebDriver
     `pip install -U selenium       {{Install or upgrade the Python bindings for Selenium WebDriver}} 

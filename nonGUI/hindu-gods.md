@@ -2,7 +2,7 @@
 
 > Source: http://www.dummies.com/how-to/content/hindu-gods-and-goddesses.html
 
-> Aliases: hindu-gods-and-goddesses, hindu-god, hindu-goddesses, hindu-goddess, hindu, hindu-god-and-goddess, hinduism
+> Aliases: hinduism, hindu, hindu-god, hindu-goddesses, hindu-goddess, hindu-god-and-goddess, hindu-gods-and-goddesses
 
 $ God
     `Brahma, the Creator           {{First member of the Hindu Trinity and is " the Creator" because he periodically creates everything in the universe}} 

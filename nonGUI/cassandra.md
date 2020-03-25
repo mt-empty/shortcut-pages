@@ -2,7 +2,7 @@
 
 > Source: https://gabhi.github.io/cassandra_cheat_sheet/
 
-> Aliases: datastax, cassandra-database, cql, cqlsh
+> Aliases: cqlsh, cassandra-database, datastax, cql
 
 $ KEYSPACE
     `CREATE KEYSPACE keyspace_name WITH DURABLE_WRITES = ( true | false )

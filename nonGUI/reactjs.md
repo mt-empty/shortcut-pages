@@ -2,7 +2,7 @@
 
 > Source: https://facebook.github.io/react/docs/getting-started.html
 
-> Aliases: react-js, react, react.js
+> Aliases: react, react.js, react-js
 
 $ ReactDOM
     `ReactDOM.render(<MyComponent />, document.getElementById('container'));

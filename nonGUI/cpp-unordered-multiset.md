@@ -2,7 +2,7 @@
 
 > Source: http://www.cplusplus.com/reference/unordered_set/unordered_multiset/
 
-> Aliases: c++-unordered-multiset, cpp-unordered-multisets-container, c++-unordered-multisets-container, cpp-unordered-multisets, c++-unordered-multiset-container, cpp-unordered-multiset-container, c++-unordered-multisets
+> Aliases: cpp-unordered-multisets, cpp-unordered-multiset-container, cpp-unordered-multisets-container
 
 $ Capacity
     `myset.empty()                 {{Returns a bool value indicating whether the unordered_multiset container is empty, i.e. whether its size is 0}} 

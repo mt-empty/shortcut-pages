@@ -2,7 +2,7 @@
 
 > Source: https://github.com/amirrajan/devbox/wiki/EMACS-Evil-Cheat-Sheet
 
-> Aliases: evil-emacs, evil-mode-emacs, emacs-evil-mode, evil-emacs-mode, evil-mode-for-emacs
+> Aliases: evil-emacs, evil-mode-emacs, evil-mode-for-emacs, evil-emacs-mode
 
 $ Editing Text
     `ESC                           {{Command Mode}} 

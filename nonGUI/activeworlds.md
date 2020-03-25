@@ -2,7 +2,7 @@
 
 > Source: http://awbuilder.blogspot.com/2016/01/reference-activeworlds-keyboard-defaults.html
 
-> Aliases: alphaworld, active-worlds
+> Aliases: active-worlds, alphaworld
 
 $ Avatar Movement
     `↑ / Numpad 8                  {{Move avatar forward}} 

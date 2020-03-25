@@ -2,7 +2,7 @@
 
 > Source: https://support.office.com/en-us/article/Keyboard-shortcuts-in-Excel-2010-20603861-42b6-4c93-82ec-66924ea9b323
 
-> Aliases: ms-excel, excel-2010, ms-excel-2010, excel, microsoft-excel-2010
+> Aliases: excel, ms-excel, excel-2010, ms-excel-2010, microsoft-excel-2010
 
 $ Worksheet Management
     `Ctrl Shift &                  {{Applies the outline border to the selected cells}} 

@@ -3,6 +3,8 @@ import json
 import os
 import re
 
+from collections import OrderedDict
+
 """
 (?<!\\)[\[\{\]\}]|\\(?={|\]|}|\[)
 
@@ -17,7 +19,7 @@ for more examples: https://regex101.com/r/G9hbnZ/17
 REGEX = r'(?<!\\)[\[\{\]\}]|\\(?={|\]|}|\[)'
 
 
-# regexp for special characters in aliases 
+# regexp for special characters in aliases
 aliasREGEX = r"[+<>\\/:*#$%&{}!'`\"@=|]"
 
 # used by the client for ANSI escape code colors
@@ -27,7 +29,6 @@ SHORTCUT_TAG = "`"
 DESCRIPTION_START_TAG = "{{"
 DESCRIPTION_END_TAG = "}}"
 NORMAL_TEXT_TAG = "> "
-
 
 
 def parse(args):
@@ -48,7 +49,7 @@ def parse(args):
 
             data = json.load(infile)
             aliases = []
-            
+
             def upperSection():
                 outfile.write(TITLE_TAG + data["name"] + "\n\n")
 
@@ -60,49 +61,58 @@ def parse(args):
                         NORMAL_TEXT_TAG + "Source: " + data["metadata"]["sourceUrl"] + "\n\n")
                 except:
                     with open("parseLog.md", "a") as log:
-                        # log.write("Source error " + json_path + "\n")
-                        log.write(json_path + "\n")
-                        # quit()
+                        log.write("Source error: " + json_path + "\n")
+                        # log.write(json_path + "\n")
 
                 try:
-                    aliases.extend(set([a.replace(" ", "-") for a in data["aliases"]])) # set is used to remove duplicates
-                    
-                    for alias in aliases:
+                    # remove duplicates
+                    temp = list(dict.fromkeys(
+                        [a.replace(" ", "-") for a in data["aliases"]]))
+
+                    for alias in temp:
                         # ignore aliases that already exist for the same program
                         if alias == program_name:
-                            aliases.remove(alias)
+                            continue
                         elif re.search(aliasREGEX, alias):
-                            aliases.remove(alias) 
+                            continue
+                        else:
+                            aliases.append(alias)
 
-                    outfile.write(NORMAL_TEXT_TAG + "Aliases: " + ", ".join(aliases) + "\n\n")
-                
+                    if aliases:
+                        outfile.write(NORMAL_TEXT_TAG +
+                                      "Aliases: " + ", ".join(aliases) + "\n\n")
+
+                except KeyError:
+                    # aliases are optional
+                    pass
                 except Exception as e:
                     with open("aliasError.md", "a") as log:
                         log.write(str(e) + " for program: " + program_name +
-                                    ",with aliases: " + str(data["aliases"]) + "\n")
+                                  ",with aliases: " + str(data["aliases"]) + "\n")
 
-                
             def middleSection():
                 for key, value in data["sections"].items():
                     outfile.write(CATEGORY_TAG + key + "\n")
-                    
+
                     for item in value:
                         try:
-                            shortcut = re.sub(REGEX,"", item['key'])
+                            shortcut = re.sub(REGEX, "", item['key'])
                             shortcut = SHORTCUT_TAG + shortcut
-                            description = DESCRIPTION_START_TAG + item['val'] + DESCRIPTION_END_TAG
+                            description = DESCRIPTION_START_TAG + \
+                                item['val'] + DESCRIPTION_END_TAG
 
                             if len(shortcut) > 30:
                                 outfile.write("{:4}{}\n{:2}{:32} {} \n".format(
-                                    "", shortcut,NORMAL_TEXT_TAG, "", description))
+                                    "", shortcut, NORMAL_TEXT_TAG, "", description))
                             else:
                                 outfile.write("{:4}{:30} {} \n".format(
                                     "", shortcut, description))
                         except:
                             with open("parseLog.md", "a") as log:
-                                # log.write("Description error " + json_path+"\n")
-                                log.write(json_path+"\n")
-                                quit()
+                                log.write("Description error: " +
+                                          json_path+"\n")
+                                # log.write(json_path+"\n")
+                                quit(1)
                     outfile.write("\n")
 
             # creating symlinks named after aliases of the original file
@@ -110,18 +120,17 @@ def parse(args):
                 try:
 
                     for alias in aliases:
-                        alias = alias.replace(" ", "-")
 
-                        alias_path = destination + \
-                            alias + ".md"
+                        alias_path = destination + alias + ".md"
                         os.symlink(program_name + ".md", alias_path)
 
-                except KeyError:
-                    pass
                 except Exception as e:
-                    with open("aliasError.md", "a") as log:
-                        log.write(str(e) + " for program: " + program_name +
-                                    ",with aliases: " + str(data["aliases"]) + "\n")
+                    if e.errno == 17:  # file exists
+                        pass
+                    else:
+                        with open("createAliasError.md", "a") as log:
+                            log.write(str(e) + " when creating aliases for program: " + program_name +
+                                      ", with aliases: " + str(aliases) + "\n")
 
             upperSection()
             middleSection()

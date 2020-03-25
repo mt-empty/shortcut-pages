@@ -1,6 +1,6 @@
 # C Character Manipulations
 
-> Aliases: ctype.h, ctype, c-character-manipulation, c-character-manipulation-functions, c-char-manipulation-functions
+> Aliases: c-character-manipulation-functions, c-char-manipulation-functions, c-character-manipulation, ctype, ctype.h
 
 $ Classification of characters
     `int islower(int c)            {{Returns true if c is a lower-case letter}} 

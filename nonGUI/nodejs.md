@@ -2,7 +2,7 @@
 
 > Source: https://www.gosquared.com/resources/node-cheat-sheet/
 
-> Aliases: node.js, node-js
+> Aliases: node-js, node.js
 
 $ Getting Started
     `node script.js                {{Run script}} 

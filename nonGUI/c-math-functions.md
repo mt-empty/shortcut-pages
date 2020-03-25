@@ -2,7 +2,7 @@
 
 > Source: http://www.gnu.org/software/libc/manual/html_mono/libc.html
 
-> Aliases: math.h, c-mathematics-functions
+> Aliases: c-mathematics-functions, math.h
 
 $ Trignometric Functions
     `double sin (double x)         {{Returns the sine of x, where x is given in radians. The return value is in the range -1 to 1}} 

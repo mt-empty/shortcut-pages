@@ -2,8 +2,6 @@
 
 > Source: https://yarnpkg.com/en/docs/cli/
 
-> Aliases: 
-
 $ Working with a project
     `yarn init                     {{Initializes a new project and create the package.json file.}} 
     `yarn link                     {{Creates a globally-installed symbolic link from the current project's folder.}} 

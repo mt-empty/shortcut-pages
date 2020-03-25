@@ -2,7 +2,7 @@
 
 > Source: https://daveden.wordpress.com/2012/09/21/lubuntu-keyboard-shortcuts-cheat-sheet/
 
-> Aliases: openbox-desktop, lxde-desktop, openbox
+> Aliases: lxde-desktop, openbox, openbox-desktop
 
 $ Default LXDE/Openbox Bindings
     `Ctrl Alt (← / ↑ / → / ↓)      {{Go to desktop (direction)}} 

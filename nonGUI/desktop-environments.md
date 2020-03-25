@@ -1,6 +1,6 @@
 # Desktop Environments
 
-> Aliases: desktop-environments-list, desktop-environment
+> Aliases: desktop-environment, desktop-environments-list
 
 $ Active
     `Budgie                        {{Budgie is a distro-agnostic desktop environment, leveraging GNOME technologies such as GTK+, and is developed by Solus project as well as contributors from numerous communities such as Arch Linux and Ubuntu Budgie}} 

@@ -2,7 +2,7 @@
 
 > Source: https://en.wikipedia.org/wiki/Differentiation_rules
 
-> Aliases: differentiation, derivatives, differentiation-rules
+> Aliases: differentiation, differentiation-rules, derivatives
 
 $ Linearity of Differentiation
     `H(x) = aF(x) + bG(x)          {{H'(x) = aF'(x) + bG'(x)}} 
