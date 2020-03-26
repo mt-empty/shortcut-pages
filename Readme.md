@@ -41,5 +41,5 @@ Please refer to [contribution page](/contribution/Readme.md) for pull requests.
 
 ## Further inspired by theses useful projects
 
-* [tldr](): A collection of simplified and community-driven man pages.
-* [cheat](): Interactive cheatsheets on the command-line.
+* [tldr](https://github.com/tldr-pages/tldr): A collection of simplified and community-driven man pages.
+* [cheat](https://github.com/cheat/cheat): Interactive cheatsheets on the command-line.
