@@ -1,0 +1,126 @@
+{
+    "name": "i3 Window Manager",
+    "id": "i3_cheat_sheet",
+    "description": "Tiling window manager for GNU/Linux and BSD",
+    "metadata": {
+        "sourceName": "i3wm",
+        "sourceUrl": "https://i3wm.org/docs/refcard.html"
+    },
+    "aliases": [
+	"i3wm",
+	"i3 wm",
+	"i3 window manager",
+	"i3 tiling window manager"
+    ],
+    "template_type": "keyboard",
+    "section_order": [
+        "Moving Around",
+        "Changing Container Modes",
+        "Opening Other Application",
+        "Using Workspaces",
+        "Restarting i3 Inplace",
+        "Exiting i3"
+    ],
+    "sections": {
+        "Moving Around": [
+            {
+                "val": "Open new Terminal",
+                "key": "[$mod] [Enter]"
+            },
+            {
+                "val": "Focus left",
+                "key": "[$mod] ( [j] / [←] )"
+            },
+            {
+                "val": "Focus down",
+                "key": "[$mod] ( [k] / [↓] )"
+            },
+            {
+                "val": "Focus up",
+                "key": "[$mod] ( [l] / [↑] )"
+            },
+            {
+                "val": "Focus right",
+                "key": "[$mod] ( [;] / [→] )"
+            },
+            {
+                "val": "Move window left",
+                "key": "[$mod] [Shift] ( [j] / [←] )"
+            },
+            {
+                "val": "Move window down",
+                "key": "[$mod] [Shift] ( [k] / [↓] )"
+            },
+            {
+                "val": "Move window up",
+                "key": "[$mod] [Shift] ( [l] / [↑] )"
+            },
+            {
+                "val": "Move window right",
+                "key": "[$mod] [Shift] ( [;] / [→] )"
+            },
+            {
+                "val": "Kill a window",
+                "key": "[$mod] [Shift], [q]"
+            },
+            {
+                "val": "Move window to another workspace",
+                "key": "[$mod] [Shift] [<Number>]"
+            }
+        ],
+        "Changing Container Modes": [
+            {
+                "val": "Default",
+                "key": "[$mod] [e]"
+            },
+            {
+                "val": "Stacking",
+                "key": "[$mod] [h]"
+            },
+            {
+                "val": "Tabbed",
+                "key": "[$mod] [w]"
+            },
+            {
+                "val": "Global fullscreen",
+                "key": "[$mod] [Shift], [f]"
+            },
+            {
+                "val": "Toggle fullscreen",
+                "key": "[$mod] [f]"
+            },
+            {
+                "val": "Toggle floating",
+                "key": "[$mod] [Shift], [Space]"
+            },
+            {
+                "val": "Drag floating",
+                "key": "[$mod] [<Mouse>]"
+            }
+        ],
+        "Opening Other Application": [
+            {
+                "val": "Open application launcher (dmenu)",
+                "key": "[$mod] [d]"
+            }
+        ],
+        "Using Workspaces": [
+            {
+                "val": "Switch to workspace num",
+                "key": "[$mod] [<Number>]"
+            }
+        ],
+        "Restarting i3 Inplace": [
+            {
+                "val": "Restart i3 inplace",
+                "key": "[$mod] [Shift], [r]"
+            }
+        ],
+        "Exiting i3": [
+            {
+                "val": "Exit i3",
+                "key": "[$mod] [Shift], [e]"
+            }
+        ]
+    }
+}
