@@ -1,10 +1,10 @@
 # Shortcut
 
-A collections of keyboard shortcuts for many GUI **application** and **websites**.
+A collections of keyboard shortcuts for **Desktop application** and **websites**.
 
 ![](/shortcut.gif)
 
-Currently the collection also includes non-GUI cheatsheets(extra):
+Currently the collection also includes many cheatsheets(extra):
 * CLI tools
 * Games
 * Programming languages
@@ -12,7 +12,7 @@ Currently the collection also includes non-GUI cheatsheets(extra):
 
 
 ## Why shortcut
-How many times did you have to use your mouse after installing the new shiny GUI application? 
+How many times did you have to use your mouse after installing the new shiny Desktop application? 
 
 You probably had to navigate a menu or look online for shortcuts.
 
@@ -26,7 +26,7 @@ This project was started as an attempt to `Never leave my keyboard`, as well as 
 
 ## TODO
 
-* Sort programs based on Mac, Linux or Windows
+* Sort programs based on Mac, Linux or Windows.
 
 
 ## Contributing
