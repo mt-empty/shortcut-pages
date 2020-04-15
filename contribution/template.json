@@ -8,7 +8,7 @@
     "Alias-one",
     "Alias-two"
   ],
-    "isGUI": true or false,
+    "isGUI": true,
     "section_order":[
         "Section one",
         "Section two"
