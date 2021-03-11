@@ -22,6 +22,7 @@ This project was started as an attempt to `Never leave my keyboard`, as well as 
 
 ## Shortcut clients
 * [C-client](https://github.com/mt-empty/shortcut-c-client)
+* [Python client](https://github.com/akiyamn/shortcut.py)
 
 
 ## TODO
