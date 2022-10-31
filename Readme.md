@@ -1,6 +1,6 @@
 # Shortcut
 
-A collections of keyboard shortcuts for **Desktop application** and **websites**.
+A collections of keyboard shortcuts for widely used **Desktop application** and **websites**.
 
 ![](/shortcut.gif)
 
@@ -12,23 +12,18 @@ Currently the collection also includes many cheatsheets(extra):
 
 
 ## Why shortcut
-How many times did you have to use your mouse after installing the new shiny Desktop application? 
 
-You probably had to navigate a menu or look online for shortcuts.
-
-Well you no longer have to, as you can get the shortcuts right from your terminal.
-
-This project was started as an attempt to `Never leave my keyboard`, as well as a learning experience.
-
+Simple, never leave my keyboard.
 ## Shortcut clients
-* [C-client](https://github.com/mt-empty/shortcut-c-client)
-* [Python client](https://github.com/akiyamn/shortcut.py)
+
+* [Rust](https://github.com/mt-empty/shortcut-rust-client)
+* [C](https://github.com/mt-empty/shortcut-c-client)
+* [Python](https://github.com/akiyamn/shortcut.py)
 
 
 ## TODO
 
 * Sort programs based on Mac, Linux or Windows.
-
 
 ## Contributing
 
