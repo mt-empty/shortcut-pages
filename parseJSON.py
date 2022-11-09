@@ -20,9 +20,9 @@ REGEX = r'(?<!\\)[\[\{\]\}]|\\(?={|\]|}|\[)'
 
 
 # regexp for special characters in aliases
-aliasREGEX = r"[+<>\\/:*#$%&{}!'`\"@=|]"
+ALIAS_REGEX = r"[+<>\\/:*#$%&{}!'`\"@=|]"
 
-# used by the client for ANSI escape code colors
+# used by the client for ANSI escape code
 TITLE_TAG = "# "
 CATEGORY_TAG = "$ "
 SHORTCUT_TAG = "`"
@@ -39,10 +39,9 @@ def parse(args):
         args {array} -- 
     """
     # destination = "programs/"
-    scriptPath, destination, json_file = args
-    program_name = json_file[:-5]
+    script_path, destination, json_path = args
+    program_name = os.path.basename(json_path)[:-5]
     markdown_path = destination + program_name + ".md"
-    json_path = "json/" + json_file
 
     with open(json_path, "r") as infile:
         with open(markdown_path, "w+") as outfile:
@@ -50,7 +49,7 @@ def parse(args):
             data = json.load(infile)
             aliases = []
 
-            def upperSection():
+            def upper_section():
                 outfile.write(TITLE_TAG + data["name"] + "\n\n")
 
                 # with open("programs.md", "a") as prgs:
@@ -73,7 +72,7 @@ def parse(args):
                         # ignore aliases that already exist for the same program
                         if alias == program_name:
                             continue
-                        elif re.search(aliasREGEX, alias):
+                        elif re.search(ALIAS_REGEX, alias):
                             continue
                         else:
                             aliases.append(alias)
@@ -90,7 +89,7 @@ def parse(args):
                         log.write(str(e) + " for program: " + program_name +
                                   ",with aliases: " + str(data["aliases"]) + "\n")
 
-            def middleSection():
+            def middle_section():
                 for key, value in data["sections"].items():
                     outfile.write(CATEGORY_TAG + key + "\n")
 
@@ -116,7 +115,7 @@ def parse(args):
                     outfile.write("\n")
 
             # creating symlinks named after aliases of the original file
-            def createAliases(aliases):
+            def create_aliases(aliases):
                 try:
 
                     for alias in aliases:
@@ -132,10 +131,14 @@ def parse(args):
                             log.write(str(e) + " when creating aliases for program: " + program_name +
                                       ", with aliases: " + str(aliases) + "\n")
 
-            upperSection()
-            middleSection()
-            createAliases(aliases)
+            upper_section()
+            middle_section()
+            create_aliases(aliases)
+            print(f"Successfully create a new page {markdown_path}")
 
 
 if __name__ == "__main__":
+    if len(sys.argv) != 3:
+        print("Error, not enough arguments,\nUsage: testpage.py output_dir path_to_page.json")
+        exit(0)
     parse(sys.argv)

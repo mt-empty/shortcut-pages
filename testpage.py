@@ -8,7 +8,7 @@ def test(args):
     # regexp for special characters in aliases 
     aliasREGEX = r"[+<>\\/:*#$%&{}!'`\"@=|]"
 
-    errorFlag = False
+    error_flag = False
 
     try:
         scriptPath, json_path = args
@@ -29,21 +29,21 @@ def test(args):
             data["isGUI"]
         except:
             print("Error: [isGUI] value is required\n")
-            errorFlag = True
+            error_flag = True
             
       
-        def testUpperPart():
+        def validate_upper_section():
             try:
                 data["name"]
             except:
                 print("Error: [name] value is required\n")
-                errorFlag = True
+                error_flag = True
                 
             try:
                 data["metadata"]["sourceUrl"]
             except:
                 print("Error: [sourceUrl] value is required\n")
-                errorFlag = True
+                error_flag = True
                 
             try:
                 for alias in data["aliases"]:
@@ -62,13 +62,13 @@ def test(args):
                 pass
             except Exception:
                 print("Error: Invalid alias '{}' for {}\n".format(alias, page_name))
-                errorFlag = True
+                error_flag = True
             
-        def testSections():
+        def validate_middle_sections():
             try:
                 data["sections"].items()
             except:
-                errorFlag = True
+                error_flag = True
                 print("Error: sections value is required\n")
             
             for key, value in data["sections"].items():                  
@@ -79,14 +79,17 @@ def test(args):
 
                     except:
                         print("invalid item " + value + "\n")
-                        errorFlag = True
-        testUpperPart()
-        testSections()
+                        error_flag = True
+        validate_upper_section()
+        validate_middle_sections()
 
-        if errorFlag:
+        if error_flag:
             print("Please correct the above errors")
         else:
             print("No errors found")
 
 if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("Error, not enough arguments,\nUsage: testpage.py path_to_page.json")
+        exit(0)
     test(sys.argv)
