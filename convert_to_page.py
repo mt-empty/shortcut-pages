@@ -139,6 +139,6 @@ def parse(args):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Error, not enough arguments,\nUsage: testpage.py output_dir path_to_page.json")
+        print("Error, not enough arguments,\nUsage: convert_to_page.py output_dir path_to_page.json")
         exit(0)
     parse(sys.argv)
