@@ -21,6 +21,7 @@ $ Current Page
     `F6                            {{Move to Next Frame}} 
     `Shift F6                      {{Move to Previous Frame}} 
     `Ctrl P                        {{Print}} 
+    `Alt Enter                     {{Save Focused Link}} 
     `Ctrl S                        {{Save Page As}} 
     `Ctrl +                        {{Zoom In}} 
     `Ctrl -                        {{Zoom Out}} 
