@@ -90,6 +90,6 @@ def test(args):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Error, not enough arguments,\nUsage: testpage.py path_to_page.json")
+        print("Error, not enough arguments,\nUsage: validate_page.py path_to_page.json")
         exit(0)
     test(sys.argv)
