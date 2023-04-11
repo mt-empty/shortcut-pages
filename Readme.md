@@ -17,6 +17,7 @@ Simple, never leave my keyboard.
 ## Shortcut clients
 
 * [Rust](https://github.com/mt-empty/shortcut-rust-client)
+* [Golang](https://github.com/mt-empty/shortcut-go-client)
 * [C](https://github.com/mt-empty/shortcut-c-client)
 * [Python](https://github.com/akiyamn/shortcut.py)
 
