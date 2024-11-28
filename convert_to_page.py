@@ -5,7 +5,7 @@ import re
 
 from collections import OrderedDict
 
-"""
+r"""
 (?<!\\)[\[\{\]\}]|\\(?={|\]|}|\[)
 
 match [ or { or ] or } if not preceded by /

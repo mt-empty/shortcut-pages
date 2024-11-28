@@ -6,9 +6,9 @@
         "sourceName":"Mozilla Firefox",
         "sourceUrl":"https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly"
     },
-  "aliases": [
-    "mozilla firefox"
-  ],
+    "aliases": [
+        "mozilla firefox"
+    ],
     "template_type": "keyboard",
     "section_order":[
         "Navigation",
@@ -46,8 +46,16 @@
                 "key":"F5"
             },
             {
+                "val":"Reload",
+                "key":"[Ctrl] [R]"
+            },
+            {
                 "val":"Reload (override cache)",
                 "key":"[Ctrl] [F5]"
+            },
+            {
+                "val":"Reload (override cache)",
+                "key":"[Ctrl] [Shift] [R]"
             },
             {
                 "val":"Stop",
@@ -144,6 +152,10 @@
                 "key":"[Ctrl] [F]"
             },
             {
+                "val":"Find Next",
+                "key":"F3"
+            },
+            {
                 "val":"Find Again",
                 "key":"[Ctrl] [G]"
             },
@@ -169,7 +181,7 @@
             },
             {
                 "val":"Focus Search bar (Alternative)",
-                "key":"[Ctrl] [J]"
+                "key":"[Ctrl] [E]"
             },
             {
                 "val":"Quickly switch between search engines (when Search Bar is focused)",
@@ -192,6 +204,10 @@
             {
                 "val":"Close Window",
                 "key":"[Ctrl] [Shift] [W]"
+            },
+            {
+                "val":"Close Window (Alternative)",
+                "key":"[Alt] [F4]"
             },
             {
                 "val":"Move Tab in focus Left",
@@ -226,12 +242,20 @@
                 "key":"[Ctrl] [Tab]"
             },
             {
+                "val":"Next Tab (Alternative)",
+                "key":"[Ctrl] [Page Down]"
+            },
+            {
                 "val":"Open Address in New Tab",
                 "key":"[Alt] [Enter]"
             },
             {
                 "val":"Previous Tab",
                 "key":"[Ctrl] [Shift] [Tab]"
+            },
+            {
+                "val":"Previous Tab (Alternative)",
+                "key":"[Ctrl] [Page Up]"
             },
             {
                 "val":"Undo Close Tab",
@@ -247,23 +271,7 @@
             },
             {
                 "val":"Select Last Tab",
-                "key":"[Alt] [9]"
-            },
-            {
-                "val":"Tab Groups View",
-                "key":"[Ctrl] [Shift] [E]"
-            },
-            {
-                "val":"Close Tab Groups View",
-                "key":"Esc"
-            },
-            {
-                "val":"Next Tab Group (only for some keyboard layouts)",
-                "key":"[Ctrl] [`]"
-            },
-            {
-                "val":"Previous Tab Group (only for some keyboard layouts)",
-                "key":"[Ctrl] [Shift] [`]"
+                "key":"[Ctrl] [9]"
             }
         ],
         "History":[
@@ -332,24 +340,12 @@
                 "key":"[Shift] [F7]"
             },
             {
-                "val":"Profiler",
-                "key":"[Shift] [F5]"
-            },
-            {
                 "val":"Network",
                 "key":"[Ctrl] [Shift] [Q]"
             },
             {
-                "val":"Developer Toolbar",
-                "key":"[Shift] [F2]"
-            },
-            {
-                "val":"Responsive Design View",
+                "val":"Responsive Design Mode",
                 "key":"[Ctrl] [Shift] [M]"
-            },
-            {
-                "val":"Scratchpad",
-                "key":"[Shift] [F4]"
             },
             {
                 "val":"Page Source",
@@ -432,16 +428,24 @@
                 "key":"F10"
             },
             {
-                "val":"Show/Hide Add-on Bar",
-                "key":"[Ctrl] [/]"
-            },
-            {
                 "val":"Caret Browsing",
                 "key":"F7"
             },
             {
                 "val":"Select Location Bar",
                 "key":"F6"
+            },
+            {
+                "val":"Select Location Bar",
+                "key":"[Ctrl] [L]"
+            },
+            {
+                "val":"Select Location Bar (Alternative)",
+                "key":"[Alt] [D]"
+            },
+            {
+                "val":"Toggle Reader View",
+                "key":"F9"
             }
         ],
         "Audio & Video Media":[

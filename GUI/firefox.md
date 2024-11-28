@@ -10,7 +10,9 @@ $ Navigation
     `Alt Home                      {{Home}} 
     `Ctrl O                        {{Open File}} 
     `F5                            {{Reload}} 
+    `Ctrl R                        {{Reload}} 
     `Ctrl F5                       {{Reload (override cache)}} 
+    `Ctrl Shift R                  {{Reload (override cache)}} 
     `Esc                           {{Stop}} 
 
 $ Current Page
@@ -39,13 +41,14 @@ $ Editing
 
 $ Search
     `Ctrl F                        {{Find}} 
+    `F3                            {{Find Next}} 
     `Ctrl G                        {{Find Again}} 
     `Shift F3                      {{Find Previous}} 
     `'                             {{Quick Find within link-text only}} 
     `/                             {{Quick Find}} 
     `Esc                           {{Close the Find or Quick Find bar (when focused)}} 
     `Ctrl K                        {{Focus Search bar}} 
-    `Ctrl J                        {{Focus Search bar (Alternative)}} 
+    `Ctrl E                        {{Focus Search bar (Alternative)}} 
     `Ctrl ( ↑ / ↓ )                {{Quickly switch between search engines (when Search Bar is focused)}} 
     `Alt ( ↑ / ↓ )                 {{View menu to switch, add or manage search engines (when Search Bar is focused)}} 
 
@@ -53,6 +56,7 @@ $ Windows & Tabs
     `Ctrl W                        {{Close Tab}} 
     `Ctrl F4                       {{Close Tab (Alternative)}} 
     `Ctrl Shift W                  {{Close Window}} 
+    `Alt F4                        {{Close Window (Alternative)}} 
     `Ctrl Shift Page Up            {{Move Tab in focus Left}} 
     `Ctrl Shift Page Down          {{Move Tab in focus Right}} 
     `Ctrl Home                     {{Move Tab in focus to start}} 
@@ -61,16 +65,14 @@ $ Windows & Tabs
     `Ctrl N                        {{New Window}} 
     `Ctrl Shift P                  {{New Private Window}} 
     `Ctrl Tab                      {{Next Tab}} 
+    `Ctrl Page Down                {{Next Tab (Alternative)}} 
     `Alt Enter                     {{Open Address in New Tab}} 
     `Ctrl Shift Tab                {{Previous Tab}} 
+    `Ctrl Page Up                  {{Previous Tab (Alternative)}} 
     `Ctrl Shift T                  {{Undo Close Tab}} 
     `Ctrl Shift N                  {{Undo Close Window}} 
     `Ctrl 1 to 8                   {{Select Tab 1 to 8}} 
-    `Alt 9                         {{Select Last Tab}} 
-    `Ctrl Shift E                  {{Tab Groups View}} 
-    `Esc                           {{Close Tab Groups View}} 
-    `Ctrl `                        {{Next Tab Group (only for some keyboard layouts)}} 
-    `Ctrl Shift `                  {{Previous Tab Group (only for some keyboard layouts)}} 
+    `Ctrl 9                        {{Select Last Tab}} 
 
 $ History
     `Ctrl H                        {{History sidebar}} 
@@ -92,11 +94,8 @@ $ Tools
     `Ctrl Shift C                  {{Inspector}} 
     `Ctrl Shift S                  {{Debugger}} 
     `Shift F7                      {{Style Editor}} 
-    `Shift F5                      {{Profiler}} 
     `Ctrl Shift Q                  {{Network}} 
-    `Shift F2                      {{Developer Toolbar}} 
-    `Ctrl Shift M                  {{Responsive Design View}} 
-    `Shift F4                      {{Scratchpad}} 
+    `Ctrl Shift M                  {{Responsive Design Mode}} 
     `Ctrl U                        {{Page Source}} 
     `Ctrl Shift J                  {{Browser Console}} 
 
@@ -120,9 +119,11 @@ $ Miscellaneous
     `F11                           {{Toggle Full Screen}} 
     `Alt                           {{Toggle Menu Bar activation (KDE) (showing it temporarily when hidden)}} 
     `F10                           {{Toggle Menu Bar activation (GNOME) (showing it temporarily when hidden)}} 
-    `Ctrl /                        {{Show/Hide Add-on Bar}} 
     `F7                            {{Caret Browsing}} 
     `F6                            {{Select Location Bar}} 
+    `Ctrl L                        {{Select Location Bar}} 
+    `Alt D                         {{Select Location Bar (Alternative)}} 
+    `F9                            {{Toggle Reader View}} 
 
 $ Audio & Video Media
     `Space bar                     {{Toggle Play / Pause}} 
