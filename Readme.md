@@ -1,42 +1,40 @@
 # Shortcut
 
-A collections of keyboard shortcuts for widely used **Desktop application** and **websites**.
+A collection of keyboard shortcuts for widely used **desktop applications** and **websites**.
 
-![](/shortcut.gif)
+![Shortcut Demo](/shortcut.gif)
 
-Currently the collection also includes many cheatsheets(extra):
+The collection also includes many extra cheatsheets for:
 * CLI tools
 * Games
 * Programming languages
 * Other
 
+## Why Shortcut?
 
-## Why shortcut
+Simple: never leave your keyboard.
 
-Simple, never leave my keyboard.
-## Shortcut clients
+## Shortcut Clients
 
 * [Rust](https://github.com/mt-empty/shortcut-rust-client)
 * [Golang](https://github.com/mt-empty/shortcut-go-client)
 * [C](https://github.com/mt-empty/shortcut-c-client)
 * [Python](https://github.com/akiyamn/shortcut.py)
 
-
 ## TODO
 
-* Sort programs based on Mac, Linux or Windows.
+* [ ] Sort programs based on Mac, Linux, or Windows.
 
 ## Contributing
 
 Contributions are most welcome!
 
-Bugs: open an issue here.
+* **Bugs:** Open an issue [here](https://github.com/mt-empty/shortcut/issues).
+* **New features:** Open an issue or feel free to send a pull request with the included feature.
 
-New features: open an issue here or feel free to send a pull request with the included feature.
+Please refer to the [contribution page](/contribution/Readme.md) for pull requests.
 
-Please refer to [contribution page](/contribution/Readme.md) for pull requests.
-
-## Further inspired by theses useful projects
+## Further Inspired by These Useful Projects
 
 * [tldr](https://github.com/tldr-pages/tldr): A collection of simplified and community-driven man pages.
 * [cheat](https://github.com/cheat/cheat): Interactive cheatsheets on the command-line.
