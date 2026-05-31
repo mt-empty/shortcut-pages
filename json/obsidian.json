@@ -1,0 +1,122 @@
+{
+  "name": "Obsidian",
+  "description": "Official Obsidian keyboard shortcuts for editing and navigation.",
+  "metadata": {
+    "sourceName": "Obsidian Help",
+    "sourceUrl": "https://help.obsidian.md/Editing+and+formatting/Editing+shortcuts"
+  },
+  "aliases": [
+    "obsidian-help",
+    "obsidian-shortcuts",
+    "obsidian-hotkeys"
+  ],
+  "isGUI": true,
+  "section_order": [
+    "Windows/Linux Common Actions",
+    "Windows/Linux Text Editing",
+    "Windows/Linux Text Navigation",
+    "Windows/Linux Text Selection",
+    "macOS Common Actions",
+    "macOS Text Formatting",
+    "macOS Text Editing",
+    "macOS Text Navigation",
+    "macOS Text Selection"
+  ],
+  "sections": {
+    "Windows/Linux Common Actions": [
+      { "key": "Ctrl+C", "val": "Copy" },
+      { "key": "Ctrl+X", "val": "Cut" },
+      { "key": "Ctrl+V", "val": "Paste" },
+      { "key": "Ctrl+Shift+V", "val": "Paste without formatting" },
+      { "key": "Ctrl+Z", "val": "Undo" },
+      { "key": "Ctrl+Shift+Z or Ctrl+Y", "val": "Redo" },
+      { "key": "Ctrl+C (with no selected text)", "val": "Copy paragraph" },
+      { "key": "Ctrl+X (with no selected text)", "val": "Cut paragraph" }
+    ],
+    "Windows/Linux Text Editing": [
+      { "key": "Enter", "val": "Insert new line" },
+      { "key": "Backspace", "val": "Delete the previous character" },
+      { "key": "Delete", "val": "Delete the next character" },
+      { "key": "Ctrl+Backspace", "val": "Delete the previous word" },
+      { "key": "Ctrl+Delete", "val": "Delete the next word" },
+      { "key": "Ctrl+Shift+K (with no selected text)", "val": "Delete the current line" }
+    ],
+    "Windows/Linux Text Navigation": [
+      { "key": "Left / →", "val": "Move the cursor one character" },
+      { "key": "Ctrl+←", "val": "Move the cursor to the beginning of the previous word" },
+      { "key": "Ctrl+→", "val": "Move the cursor to the end of the next word" },
+      { "key": "Home", "val": "Move the cursor to the beginning of the current line" },
+      { "key": "End", "val": "Move the cursor to the end of the current line" },
+      { "key": "↑", "val": "Move the cursor to the previous line" },
+      { "key": "↓", "val": "Move the cursor to the next line" },
+      { "key": "Ctrl+Home", "val": "Move the cursor to the beginning of the note" },
+      { "key": "Ctrl+End", "val": "Move the cursor to the end of the note" },
+      { "key": "Page up", "val": "Move the cursor up one page" },
+      { "key": "Page down", "val": "Move the cursor down one page" }
+    ],
+    "Windows/Linux Text Selection": [
+      { "key": "Escape", "val": "Simplify selection" },
+      { "key": "Ctrl+A", "val": "Select all" },
+      { "key": "Shift+Left / Shift+→", "val": "Extend selection one character" },
+      { "key": "Ctrl+Shift+←", "val": "Extend selection to the beginning of the previous word" },
+      { "key": "Ctrl+Shift+→", "val": "Extend selection to the end of the next word" },
+      { "key": "Shift+Home", "val": "Extend selection to the beginning of the current line" },
+      { "key": "Shift+End", "val": "Extend selection to the end of the current line" },
+      { "key": "Ctrl+Shift+Home", "val": "Extend selection to the beginning of the note" },
+      { "key": "Ctrl+Shift+End", "val": "Extend selection to the end of the note" },
+      { "key": "Shift+Page up", "val": "Extend selection one page up" },
+      { "key": "Shift+Page down", "val": "Extend selection one page down" }
+    ],
+    "macOS Common Actions": [
+      { "key": "Cmd+C", "val": "Copy" },
+      { "key": "Cmd+X", "val": "Cut" },
+      { "key": "Cmd+V", "val": "Paste" },
+      { "key": "Cmd+Shift+V", "val": "Paste without formatting" },
+      { "key": "Cmd+Z", "val": "Undo" },
+      { "key": "Cmd+Shift+Z", "val": "Redo" },
+      { "key": "Cmd+Y", "val": "Redo" },
+      { "key": "Cmd+C (with no selected text)", "val": "Copy paragraph" },
+      { "key": "Cmd+X (with no selected text)", "val": "Cut paragraph" }
+    ],
+    "macOS Text Formatting": [
+      { "key": "Cmd+B", "val": "Bold text" },
+      { "key": "Cmd+I", "val": "Italic text" }
+    ],
+    "macOS Text Editing": [
+      { "key": "Enter", "val": "Insert new line" },
+      { "key": "Backspace", "val": "Delete the previous character" },
+      { "key": "Delete", "val": "Delete the next character" },
+      { "key": "Option+Backspace", "val": "Delete the previous word" },
+      { "key": "Option+Delete", "val": "Delete the next word" },
+      { "key": "Cmd+Backspace", "val": "Delete to the beginning of the current line" },
+      { "key": "Cmd+Delete", "val": "Delete to the end of the current line" },
+      { "key": "Cmd+Shift+K (with no selected text)", "val": "Delete the current line" }
+    ],
+    "macOS Text Navigation": [
+      { "key": "Left / →", "val": "Move the cursor one character" },
+      { "key": "Option+←", "val": "Move the cursor to the beginning of the previous word" },
+      { "key": "Option+→", "val": "Move the cursor to the end of the next word" },
+      { "key": "Cmd+←", "val": "Move the cursor to the beginning of the current line" },
+      { "key": "Cmd+→", "val": "Move the cursor to the end of the current line" },
+      { "key": "↑", "val": "Move the cursor to the previous line" },
+      { "key": "↓", "val": "Move the cursor to the next line" },
+      { "key": "Cmd+↑", "val": "Move the cursor to the beginning of the note" },
+      { "key": "Cmd+↓", "val": "Move the cursor to the end of the note" },
+      { "key": "Fn+↑", "val": "Move the cursor up one page" },
+      { "key": "Fn+↓", "val": "Move the cursor down one page" }
+    ],
+    "macOS Text Selection": [
+      { "key": "Escape", "val": "Simplify selection" },
+      { "key": "Cmd+A", "val": "Select all" },
+      { "key": "Shift+Left / Shift+→", "val": "Extend selection one character" },
+      { "key": "Option+Shift+←", "val": "Extend selection to the beginning of the previous word" },
+      { "key": "Option+Shift+→", "val": "Extend selection to the end of the next word" },
+      { "key": "Cmd+Shift+←", "val": "Extend selection to the beginning of the current line" },
+      { "key": "Cmd+Shift+→", "val": "Extend selection to the end of the current line" },
+      { "key": "Cmd+Shift+↑", "val": "Extend selection to the beginning of the note" },
+      { "key": "Cmd+Shift+↓", "val": "Extend selection to the end of the note" },
+      { "key": "Ctrl+Shift+↑", "val": "Extend selection one page up" },
+      { "key": "Ctrl+Shift+↓", "val": "Extend selection one page down" }
+    ]
+  }
+}

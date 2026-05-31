@@ -1,0 +1,92 @@
+{
+  "id": "pnpm_cheat_sheet",
+  "name": "pnpm",
+  "description": "pnpm package manager CLI shortcuts and command cheatsheet",
+  "metadata": {
+    "sourceName": "pnpm documentation",
+    "sourceUrl": "https://pnpm.io/pnpm-cli"
+  },
+  "aliases": ["pnpm-cli", "pn", "pnx"],
+  "template_type": "terminal",
+  "isGUI": false,
+  "section_order": [
+    "Aliases & Basics",
+    "Package Management",
+    "Scripts & Execution",
+    "Install Options"
+  ],
+  "sections": {
+    "Aliases & Basics": [
+      {
+        "key": "pnpm --version",
+        "val": "Show pnpm version"
+      },
+      {
+        "key": "pnpm help",
+        "val": "Show help information for pnpm"
+      },
+      {
+        "key": "pnpm --help <command>",
+        "val": "Show help for a specific pnpm command"
+      },
+      {
+        "key": "pnpm install",
+        "val": "Install dependencies from package.json"
+      },
+      {
+        "key": "pnpm dlx <package> [args]",
+        "val": "Execute a package binary without installing it globally"
+      }
+    ],
+    "Package Management": [
+      {
+        "key": "pnpm add <package>",
+        "val": "Add a dependency to package.json and install it"
+      },
+      {
+        "key": "pnpm add -D <package>",
+        "val": "Add a development dependency"
+      },
+      {
+        "key": "pnpm remove <package>",
+        "val": "Remove a dependency from package.json"
+      },
+      {
+        "key": "pnpm update <package>",
+        "val": "Update dependencies to the latest compatible versions"
+      }
+    ],
+    "Scripts & Execution": [
+      {
+        "key": "pnpm run <script>",
+        "val": "Run a script defined in package.json"
+      },
+      {
+        "key": "pnpm exec <command>",
+        "val": "Run a command from node_modules binaries"
+      },
+      {
+        "key": "pnpm <command>",
+        "val": "Shortcut for pnpm run <command> when the command name is a script"
+      }
+    ],
+    "Install Options": [
+      {
+        "key": "pnpm install --frozen-lockfile",
+        "val": "Install dependencies using the lockfile without generating a new one"
+      },
+      {
+        "key": "pnpm install --global <package>",
+        "val": "Install a package globally"
+      },
+      {
+        "key": "pnpm install --offline",
+        "val": "Install using only cached packages without network access"
+      },
+      {
+        "key": "pnpm store prune",
+        "val": "Remove unused packages from the pnpm store"
+      }
+    ]
+  }
+}

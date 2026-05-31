@@ -3,6 +3,7 @@
     "name": "Docker",
     "description": "Automates the deployment of applications inside software containers, by providing an additional layer of abstraction and automation of operating-system-level virtualization",
     "template_type": "terminal",
+    "isGUI": false,
     "metadata": {
         "sourceName": "Official Docker docs",
         "sourceUrl": "https://docs.docker.com/engine/reference/commandline/"
@@ -12,6 +13,7 @@
         "Image Commands",
         "Container Commands",
         "Hub and Registry Commands",
+        "Compose Commands",
         "Network and Connectivity Commands",
         "Shared Data Volume Commands",
         "Swarm Node Commands",
@@ -35,12 +37,24 @@
             {
                 "key": "docker version",
                 "val": "Show the Docker version information"
+            },
+            {
+                "key": "docker context ls",
+                "val": "List Docker contexts"
+            },
+            {
+                "key": "docker context use \\[name\\]",
+                "val": "Switch the current Docker context"
             }
         ],
         "Image Commands": [
             {
                 "key": "docker build",
                 "val": "Build an image from a Dockerfile"
+            },
+            {
+                "key": "docker buildx build",
+                "val": "Build images using Buildx for multi-platform and advanced build options"
             },
             {
                 "key": "docker commit",
@@ -189,6 +203,48 @@
             {
                 "key": "docker search",
                 "val": "Search the Docker Hub for images"
+            },
+            {
+                "key": "docker scan \\[image\\]",
+                "val": "Scan an image for vulnerabilities"
+            },
+            {
+                "key": "docker scout preview \\[image\\]",
+                "val": "Analyze an image with Docker Scout for security and supply chain issues"
+            }
+        ],
+        "Compose Commands": [
+            {
+                "key": "docker compose up",
+                "val": "Create and start containers defined in docker-compose.yml"
+            },
+            {
+                "key": "docker compose down",
+                "val": "Stop and remove containers, networks, images, and volumes created by docker compose up"
+            },
+            {
+                "key": "docker compose ps",
+                "val": "List containers in the compose application"
+            },
+            {
+                "key": "docker compose logs",
+                "val": "View output from containers in the compose application"
+            },
+            {
+                "key": "docker compose exec",
+                "val": "Run a command in a running compose service container"
+            },
+            {
+                "key": "docker compose build",
+                "val": "Build or rebuild services defined in docker-compose.yml"
+            },
+            {
+                "key": "docker compose pull",
+                "val": "Pull service images defined in docker-compose.yml"
+            },
+            {
+                "key": "docker compose push",
+                "val": "Push service images for the compose application"
             }
         ],
         "Network and Connectivity Commands": [
@@ -219,19 +275,19 @@
         ],
         "Shared Data Volume Commands": [
             {
-                "key": "docker volumes create",
+                "key": "docker volume create",
                 "val": "Creates a new volume where containers can consume and store data"
             },
             {
-                "key": "docker volumes inspect",
+                "key": "docker volume inspect",
                 "val": "Display information about a volume"
             },
             {
-                "key": "docker volumes ls",
+                "key": "docker volume ls",
                 "val": "Lists all the volumes Docker knows about"
             },
             {
-                "key": "docker volumes rm",
+                "key": "docker volume rm",
                 "val": "Remove one or more volumes"
             }
         ],

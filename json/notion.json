@@ -1,0 +1,24 @@
+{
+  "name": "Notion",
+  "description": "Notion app keyboard shortcuts and page navigation",
+  "aliases": ["notion-app"],
+  "isGUI": true,
+  "metadata": {
+    "sourceUrl": "https://www.notion.so/help/keyboard-shortcuts"
+  },
+  "section_order": ["Navigation", "Editor"],
+  "sections": {
+    "Navigation": [
+      { "key": "Cmd/Ctrl+P or Cmd/Ctrl+K", "val": "Open quick find / jump to a recently viewed page" },
+      { "key": "Cmd/Ctrl+Shift+L", "val": "Toggle light / dark mode" },
+      { "key": "Cmd/Ctrl+F", "val": "Search page content" }
+    ],
+    "Editor": [
+      { "key": "Cmd/Ctrl+B", "val": "Bold" },
+      { "key": "Cmd/Ctrl+I", "val": "Italic" },
+      { "key": "Cmd/Ctrl+U", "val": "Underline" },
+      { "key": "Cmd+Option+5 / Ctrl+Shift+5", "val": "Turn into bulleted list" },
+      { "key": "Cmd+Option+6 / Ctrl+Shift+6", "val": "Turn into numbered list" }
+    ]
+  }
+}

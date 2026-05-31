@@ -1,6 +1,6 @@
 # Slack
 
-> Source: https://slack.zendesk.com/hc/en-us/articles/201374536-Slack-keyboard-shortcuts
+> Source: https://slack.com/help/articles/201374536-Keyboard-shortcuts-in-Slack
 
 $ Navigation
     `Ctrl /                        {{Open a quick list of keyboard shortcuts}} 

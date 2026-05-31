@@ -1,6 +1,6 @@
 # Chrome Dev Tools
 
-> Source: https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts
+> Source: https://developer.chrome.com/docs/devtools/shortcuts/
 
 > Aliases: chrome-dev-tool, chrome-dev, chrome-tools, dev-tool, dev-tools
 

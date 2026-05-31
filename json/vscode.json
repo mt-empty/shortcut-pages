@@ -3,11 +3,12 @@
     "name": "Visual Studio Code Key Bindings",
     "description": "Default key bindings for Visual Studio Code (Windows platform).",
     "metadata": {
-        "sourceName": "Visual Studio Code",
-        "sourceUrl": "https://code.visualstudio.com/docs/customization/keybindings"
+        "sourceName": "Visual Studio Code documentation",
+        "sourceUrl": "https://code.visualstudio.com/docs/configure/keybindings"
     },
-    "aliases": ["visual studio code", "vs code"],
+    "aliases": ["visual-studio-code", "vs-code"],
     "template_type": "keyboard",
+    "isGUI": true,
     "section_order": ["Basic Editing", "Rich Languages Editing", "Navigation", "Editor/Window Management", "File Management", "Display", "Debug", "Tasks"],
     "sections": {
         "Basic Editing": [{

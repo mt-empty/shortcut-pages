@@ -7,6 +7,7 @@
         "sourceUrl": "https://git-scm.com/book/en/v2/Getting-Started-Git-Basics"
     },
     "template_type" : "terminal",
+    "isGUI": false,
     "section_order": [
         "The Three States",
         "Configure Tooling",
@@ -62,6 +63,9 @@
             "val": "Shows file differences between staging and the last file version",
             "key": "git diff --staged"
         }, {
+            "val": "Restores file contents from the index or a commit",
+            "key": "git restore \\[file\\]"
+        }, {
             "val": "Unstages the file, but preserves its contents",
             "key": "git reset \\[file\\]"
         }, {
@@ -74,8 +78,12 @@
         }, {
             "val": "Creates a new branch",
             "key": "git branch \\[branch-name\\]"
+        }, {            "val": "Switches to the specified branch",
+            "key": "git switch \\[branch-name\\]"
         }, {
-            "val": "Switches to the specified branch and updates the working directory",
+            "val": "Creates a new branch and switches to it",
+            "key": "git switch -c \\[branch-name\\]"
+        }, {            "val": "Switches to the specified branch and updates the working directory",
             "key": "git checkout \\[branch-name\\]"
         }, {
             "val": "Combines the specified branch's history into the current branch",

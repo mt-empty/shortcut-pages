@@ -1,0 +1,72 @@
+{
+  "id": "figma_cheat_sheet",
+  "name": "Figma",
+  "description": "Keyboard shortcuts for Figma products from the official help center",
+  "metadata": {
+    "sourceName": "Figma Help Center",
+    "sourceUrl": "https://help.figma.com/hc/en-us/articles/360040328653-Use-Figma-products-with-a-keyboard"
+  },
+  "aliases": ["figma"],
+  "template_type": "keyboard",
+  "isGUI": true,
+  "section_order": [
+    "Shortcuts Panel",
+    "Canvas Navigation",
+    "Keyboard Selection",
+    "View Controls"
+  ],
+  "sections": {
+    "Shortcuts Panel": [
+      {
+        "key": "Mac: [Control] [Shift] [?]",
+        "val": "Open the keyboard shortcuts panel"
+      },
+      {
+        "key": "Windows: [Ctrl] [Shift] [?]",
+        "val": "Open the keyboard shortcuts panel"
+      },
+      {
+        "key": "[F6] (Mac) / [Ctrl] [F6] (Windows)",
+        "val": "Focus the toolbar so you can select tools with arrow keys"
+      }
+    ],
+    "Canvas Navigation": [
+      {
+        "key": "[Shift] + Arrow keys",
+        "val": "Increase pan distance when moving around the canvas"
+      },
+      {
+        "key": "Mac: [Command] [+] or [-]",
+        "val": "Zoom in or out"
+      },
+      {
+        "key": "Windows: [Ctrl] [+] or [-]",
+        "val": "Zoom in or out"
+      }
+    ],
+    "Keyboard Selection": [
+      {
+        "key": "Mac: [Command] [Space]",
+        "val": "Activate the keyboard box selection tool"
+      },
+      {
+        "key": "Windows: [Ctrl] [Space]",
+        "val": "Activate the keyboard box selection tool"
+      },
+      {
+        "key": "[Return] / [Enter]",
+        "val": "Select an object when using keyboard box selection"
+      }
+    ],
+    "View Controls": [
+      {
+        "key": "[Shift] + [Arrow keys]",
+        "val": "Resize the keyboard selection box"
+      },
+      {
+        "key": "[Tab] / [Shift] [Tab]",
+        "val": "Move between child layers in the selection cursor"
+      }
+    ]
+  }
+}

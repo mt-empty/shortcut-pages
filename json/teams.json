@@ -1,0 +1,27 @@
+{
+  "name": "Microsoft Teams",
+  "description": "Keyboard shortcuts for Microsoft Teams navigation and controls",
+  "aliases": ["microsoft-teams"],
+  "isGUI": true,
+  "metadata": {
+    "sourceUrl": "https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-teams-95f7fefa-2f5a-435e-a6b5-5f6d70c90b4f"
+  },
+  "section_order": ["General", "Calls & Meetings"],
+  "sections": {
+    "General": [
+      { "key": "Ctrl+E", "val": "Go to Search" },
+      { "key": "Ctrl+1", "val": "Open Activity" },
+      { "key": "Ctrl+2", "val": "Open Chat" },
+      { "key": "Ctrl+3", "val": "Open Teams" },
+      { "key": "Ctrl+4", "val": "Open Calendar" },
+      { "key": "Ctrl+N", "val": "Start a new chat" }
+    ],
+    "Calls & Meetings": [
+      { "key": "Ctrl+Shift+M", "val": "Mute / unmute" },
+      { "key": "Ctrl+Shift+O", "val": "Toggle camera" },
+      { "key": "Ctrl+Shift+K", "val": "Raise / lower hand" },
+      { "key": "Ctrl+Shift+A", "val": "Accept incoming call" },
+      { "key": "Ctrl+Shift+D", "val": "Decline incoming call" }
+    ]
+  }
+}

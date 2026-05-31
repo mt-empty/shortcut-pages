@@ -1,0 +1,24 @@
+{
+  "name": "Miro",
+  "description": "Miro board keyboard shortcuts for quick navigation and editing",
+  "aliases": ["miro-board"],
+  "isGUI": true,
+  "metadata": {
+    "sourceUrl": "https://help.miro.com/hc/en-us/articles/360017572014-Keyboard-shortcuts"
+  },
+  "section_order": ["Editing", "Navigation"],
+  "sections": {
+    "Editing": [
+      { "key": "Ctrl+Z", "val": "Undo" },
+      { "key": "Ctrl+Y", "val": "Redo" },
+      { "key": "Ctrl+D", "val": "Duplicate" },
+      { "key": "Ctrl+G", "val": "Group objects" },
+      { "key": "Ctrl+Shift+G", "val": "Ungroup objects" }
+    ],
+    "Navigation": [
+      { "key": "Space", "val": "Hold to pan board" },
+      { "key": "Alt+Drag", "val": "Duplicate object while dragging" },
+      { "key": "Esc", "val": "Deselect selection / close menus" }
+    ]
+  }
+}

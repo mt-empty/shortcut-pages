@@ -1,0 +1,103 @@
+{
+  "id": "deno_cheat_sheet",
+  "name": "Deno",
+  "description": "Deno CLI commands for running, testing, formatting, and managing Deno projects",
+  "metadata": {
+    "sourceName": "Deno CLI documentation",
+    "sourceUrl": "https://docs.deno.com/runtime/reference/cli/"
+  },
+  "aliases": ["deno", "deno-cli"],
+  "template_type": "terminal",
+  "isGUI": false,
+  "section_order": [
+    "Run & Execute",
+    "Security & Permissions",
+    "Formatting & Linting",
+    "Testing & Bundling",
+    "Tools & Utilities"
+  ],
+  "sections": {
+    "Run & Execute": [
+      {
+        "key": "deno run [options] <script>",
+        "val": "Run a local TypeScript or JavaScript file"
+      },
+      {
+        "key": "deno run https://example.com/script.ts",
+        "val": "Run a script directly from a remote URL"
+      },
+      {
+        "key": "deno eval <expression>",
+        "val": "Execute a JavaScript or TypeScript expression"
+      },
+      {
+        "key": "deno run --watch <script>",
+        "val": "Re-run the script automatically when source files change"
+      }
+    ],
+    "Security & Permissions": [
+      {
+        "key": "deno run --allow-net <script>",
+        "val": "Allow network access for the running script"
+      },
+      {
+        "key": "deno run --allow-read --allow-write <script>",
+        "val": "Allow filesystem read and write access"
+      },
+      {
+        "key": "deno run --allow-env <script>",
+        "val": "Allow access to environment variables"
+      },
+      {
+        "key": "deno run --allow-all <script>",
+        "val": "Permit all unsafe runtime capabilities"
+      }
+    ],
+    "Formatting & Linting": [
+      {
+        "key": "deno fmt [files...]",
+        "val": "Format source files using Deno's built-in formatter"
+      },
+      {
+        "key": "deno lint [files...]",
+        "val": "Run the Deno linter on source files"
+      },
+      {
+        "key": "deno lint --fix [files...]",
+        "val": "Automatically fix lint issues where possible"
+      }
+    ],
+    "Testing & Bundling": [
+      {
+        "key": "deno test [files...]",
+        "val": "Run test files and report results"
+      },
+      {
+        "key": "deno bundle <script> <out.js>",
+        "val": "Bundle a module and its dependencies into a single JavaScript file"
+      },
+      {
+        "key": "deno compile <script>",
+        "val": "Compile a script into a standalone executable"
+      }
+    ],
+    "Tools & Utilities": [
+      {
+        "key": "deno install [options] <script>",
+        "val": "Install a script as a local executable"
+      },
+      {
+        "key": "deno cache [files...]",
+        "val": "Cache remote dependencies without running the script"
+      },
+      {
+        "key": "deno info [files...]",
+        "val": "Show information about module dependencies and cache locations"
+      },
+      {
+        "key": "deno upgrade",
+        "val": "Upgrade Deno to the latest released version"
+      }
+    ]
+  }
+}

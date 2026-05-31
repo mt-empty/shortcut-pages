@@ -1,6 +1,6 @@
 # Visual Studio Code Key Bindings
 
-> Source: https://code.visualstudio.com/docs/customization/keybindings
+> Source: https://code.visualstudio.com/docs/configure/keybindings
 
 > Aliases: visual-studio-code, vs-code
 

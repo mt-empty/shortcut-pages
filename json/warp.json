@@ -1,0 +1,31 @@
+{
+  "name": "Warp (macOS)",
+  "description": "Warp terminal keyboard shortcuts and commands for macOS.",
+  "aliases": ["warp-terminal", "warp-mac"],
+  "isGUI": true,
+  "metadata": {
+    "sourceName": "Warp Docs",
+    "sourceUrl": "https://docs.warp.dev/getting-started/keyboard-shortcuts/"
+  },
+  "section_order": ["General (macOS)", "Workflows (macOS)", "Terminal (macOS)"],
+  "sections": {
+    "General (macOS)": [
+      { "key": "CMD-D", "val": "Split Pane Right" },
+      { "key": "CTRL-CMD-L", "val": "Launch Configuration Palette" },
+      { "key": "CTRL-CMD-T", "val": "Open Theme Picker" },
+      { "key": "CTRL-R", "val": "Command Search" },
+      { "key": "CTRL-SHIFT-R", "val": "Open Workflows" }
+    ],
+    "Workflows (macOS)": [
+      { "key": "CTRL-`", "val": "Generate with AI / Natural Language Command Search" },
+      { "key": "CMD-O", "val": "Open File Search" },
+      { "key": "CMD-P", "val": "Open Command Palette" }
+    ],
+    "Terminal (macOS)": [
+      { "key": "CMD-L", "val": "Focus Terminal Input" },
+      { "key": "CTRL-I", "val": "Warpify Subshell" },
+      { "key": "CMD-\\", "val": "Toggle Warp Drive" },
+      { "key": "SHIFT-CMD-T", "val": "Reopen Closed Tab" }
+    ]
+  }
+}
