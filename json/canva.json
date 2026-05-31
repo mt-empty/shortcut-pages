@@ -1,0 +1,25 @@
+{
+  "name": "Canva",
+  "description": "Canva keyboard shortcuts for editing and design navigation",
+  "aliases": ["canva-design"],
+  "isGUI": true,
+  "metadata": {
+    "sourceUrl": "https://www.canva.com/learn/keyboard-shortcuts/"
+  },
+  "section_order": ["Editing", "Tools"],
+  "sections": {
+    "Editing": [
+      { "key": "Ctrl+Z", "val": "Undo" },
+      { "key": "Ctrl+Shift+Z", "val": "Redo" },
+      { "key": "Ctrl+D", "val": "Duplicate selection" },
+      { "key": "Ctrl+G", "val": "Group elements" },
+      { "key": "Ctrl+Shift+G", "val": "Ungroup elements" }
+    ],
+    "Tools": [
+      { "key": "T", "val": "Add text" },
+      { "key": "V", "val": "Select tool" },
+      { "key": "R", "val": "Rotate tool" },
+      { "key": "Ctrl+Shift+S", "val": "Show keyboard shortcuts menu" }
+    ]
+  }
+}

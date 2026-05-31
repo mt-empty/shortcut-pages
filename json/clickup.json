@@ -1,0 +1,23 @@
+{
+  "name": "ClickUp",
+  "description": "ClickUp keyboard shortcuts for tasks and workspace navigation",
+  "aliases": ["clickup-app"],
+  "isGUI": true,
+  "metadata": {
+    "sourceUrl": "https://help.clickup.com/hc/en-us/articles/360002061214-Keyboard-Shortcuts"
+  },
+  "section_order": ["General", "Task Actions"],
+  "sections": {
+    "General": [
+      { "key": "Ctrl+Shift+K", "val": "Open keyboard shortcuts panel" },
+      { "key": "Ctrl+N", "val": "Create a new task" },
+      { "key": "Ctrl+S", "val": "Save changes" },
+      { "key": "Ctrl+F", "val": "Search workspace" }
+    ],
+    "Task Actions": [
+      { "key": "Ctrl+Enter", "val": "Save task or modal" },
+      { "key": "Ctrl+D", "val": "Duplicate selected task or item" },
+      { "key": "Ctrl+G", "val": "Open task grouping / filter options" }
+    ]
+  }
+}

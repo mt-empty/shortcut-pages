@@ -4,19 +4,20 @@
     "description": "Displays a list of chrome dev tools shortcuts",
 
     "metadata": {
-        "sourceName": "Google Developers",
-        "sourceUrl" : "https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts"
+        "sourceName": "Google Chrome Developers",
+        "sourceUrl": "https://developer.chrome.com/docs/devtools/shortcuts/"
     },
 
     "aliases": [
-        "chrome dev tool",
-        "chrome dev",
-        "chrome tools",
-        "dev tool",
-        "dev tools"
+        "chrome-dev-tool",
+        "chrome-dev",
+        "chrome-tools",
+        "dev-tool",
+        "dev-tools"
     ],
 
     "template_type": "keyboard",
+    "isGUI": true,
 
     "section_order": [
         "Basic",

@@ -1,0 +1,122 @@
+{
+  "id": "github_cli_cheat_sheet",
+  "name": "GitHub CLI",
+  "description": "GitHub CLI command-line interface cheatsheet",
+  "metadata": {
+    "sourceName": "GitHub CLI manual",
+    "sourceUrl": "https://cli.github.com/manual/"
+  },
+  "aliases": ["gh", "github-cli", "githubcli"],
+  "template_type": "terminal",
+  "isGUI": false,
+  "section_order": [
+    "Authentication",
+    "Repositories",
+    "Pull Requests",
+    "Issues",
+    "GitHub Actions",
+    "Configuration"
+  ],
+  "sections": {
+    "Authentication": [
+      {
+        "key": "gh auth login [flags]",
+        "val": "Authenticate with GitHub or a GitHub Enterprise host"
+      },
+      {
+        "key": "gh auth status",
+        "val": "Show authentication status for GitHub hosts"
+      },
+      {
+        "key": "gh auth logout [flags]",
+        "val": "Log out of GitHub or GitHub Enterprise hosts"
+      }
+    ],
+    "Repositories": [
+      {
+        "key": "gh repo clone <owner>/<repo>",
+        "val": "Clone a repository locally"
+      },
+      {
+        "key": "gh repo create [<name>] [flags]",
+        "val": "Create a new repository on GitHub and optionally clone it"
+      },
+      {
+        "key": "gh repo view [<repository>] [flags]",
+        "val": "View a repository in the browser or show repository details"
+      },
+      {
+        "key": "gh repo fork [<repository>] [flags]",
+        "val": "Create a fork of a repository"
+      }
+    ],
+    "Pull Requests": [
+      {
+        "key": "gh pr checkout <number|url|branch>",
+        "val": "Check out a pull request locally"
+      },
+      {
+        "key": "gh pr create [flags]",
+        "val": "Create a new pull request"
+      },
+      {
+        "key": "gh pr status",
+        "val": "Show the status of pull requests for the current repository"
+      },
+      {
+        "key": "gh pr merge <number|url> [flags]",
+        "val": "Merge a pull request"
+      }
+    ],
+    "Issues": [
+      {
+        "key": "gh issue list [flags]",
+        "val": "List issues in the current repository"
+      },
+      {
+        "key": "gh issue create [flags]",
+        "val": "Create a new issue"
+      },
+      {
+        "key": "gh issue view <number> [flags]",
+        "val": "View an issue"
+      },
+      {
+        "key": "gh gist create [file]... [flags]",
+        "val": "Create a gist from one or more local files"
+      }
+    ],
+    "GitHub Actions": [
+      {
+        "key": "gh run list [flags]",
+        "val": "List recent workflow runs for a repository"
+      },
+      {
+        "key": "gh run view <run-id> [flags]",
+        "val": "View details for a workflow run"
+      },
+      {
+        "key": "gh run watch <run-id>",
+        "val": "Watch logs for a workflow run live"
+      }
+    ],
+    "Configuration": [
+      {
+        "key": "gh alias set <name> '<command>'",
+        "val": "Create a gh alias for a frequently used command"
+      },
+      {
+        "key": "gh config set <name> <value>",
+        "val": "Set GitHub CLI configuration values"
+      },
+      {
+        "key": "gh extension install <name>",
+        "val": "Install a GitHub CLI extension"
+      },
+      {
+        "key": "gh api <endpoint> [flags]",
+        "val": "Make authenticated GitHub API requests"
+      }
+    ]
+  }
+}

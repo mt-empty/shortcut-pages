@@ -1,0 +1,25 @@
+{
+  "name": "Zoom",
+  "description": "Zoom meetings keyboard shortcuts",
+  "aliases": ["zoom-meetings"],
+  "isGUI": true,
+  "metadata": {
+    "sourceUrl": "https://support.zoom.us/hc/en-us/articles/360031518471-Keyboard-shortcuts-for-Zoom-Meetings"
+  },
+  "section_order": ["Meeting Controls", "Chat & Navigation"],
+  "sections": {
+    "Meeting Controls": [
+      { "key": "Alt+A", "val": "Mute / unmute audio" },
+      { "key": "Alt+V", "val": "Start / stop video" },
+      { "key": "Alt+S", "val": "Start / stop screen share" },
+      { "key": "Alt+Y", "val": "Raise / lower hand" },
+      { "key": "Alt+Q", "val": "Leave meeting" }
+    ],
+    "Chat & Navigation": [
+      { "key": "Alt+H", "val": "Show / hide chat" },
+      { "key": "Ctrl+Alt+Shift+H", "val": "Show / hide meeting controls" },
+      { "key": "Alt+N", "val": "Switch camera" },
+      { "key": "Alt+U", "val": "Show / hide participants panel" }
+    ]
+  }
+}

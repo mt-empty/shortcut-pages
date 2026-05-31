@@ -1,0 +1,72 @@
+{
+  "name": "Cursor",
+  "description": "Official Cursor keyboard shortcuts from the Cursor docs.",
+  "aliases": ["cursor-ai", "cursor-shortcuts"],
+  "isGUI": true,
+  "metadata": {
+    "sourceName": "Cursor Docs",
+    "sourceUrl": "https://cursor.com/docs/reference/keyboard-shortcuts"
+  },
+  "section_order": ["General", "Chat", "Inline Edit", "Code Selection & Context", "Tab", "Terminal"],
+  "sections": {
+    "General": [
+      {"key": "Cmd I / Ctrl I", "val": "Toggle Sidepanel (unless bound to mode)"},
+      {"key": "Cmd L / Ctrl L", "val": "Toggle Sidepanel (unless bound to mode)"},
+      {"key": "Cmd E / Ctrl E", "val": "Toggle Agent layout"},
+      {"key": "Cmd . / Ctrl .", "val": "Mode Menu"},
+      {"key": "Cmd / / Ctrl /", "val": "Loop between AI models"},
+      {"key": "Cmd Shift J / Ctrl Shift J", "val": "Cursor settings"},
+      {"key": "Cmd Shift Space / Ctrl Shift Space", "val": "Toggle Voice Mode"},
+      {"key": "Cmd , / Ctrl ,", "val": "General settings"},
+      {"key": "Cmd Shift P / Ctrl Shift P", "val": "Command palette"}
+    ],
+    "Chat": [
+      {"key": "Return / Enter", "val": "Nudge (default)"},
+      {"key": "Ctrl Return / Ctrl Enter", "val": "Queue message"},
+      {"key": "Cmd Return / Ctrl Enter when typing", "val": "Force send message"},
+      {"key": "Cmd Shift Backspace / Ctrl Shift Backspace", "val": "Cancel generation"},
+      {"key": "Cmd Shift L / Ctrl Shift L with code selected", "val": "Add selected code as context"},
+      {"key": "Cmd V / Ctrl V with code or log in clipboard", "val": "Add clipboard as context"},
+      {"key": "Cmd Shift V / Ctrl Shift V with code or log in clipboard", "val": "Add clipboard to input box"},
+      {"key": "Cmd Return / Ctrl Enter with suggested changes", "val": "Accept all changes"},
+      {"key": "Cmd Backspace / Ctrl Backspace", "val": "Reject all changes"},
+      {"key": "Tab", "val": "Cycle to next message"},
+      {"key": "Shift Tab", "val": "Rotate between Agent modes"},
+      {"key": "Cmd Option / / Ctrl Alt /", "val": "Model toggle"},
+      {"key": "Cmd N / Cmd R / Ctrl N / Ctrl R", "val": "New chat"},
+      {"key": "Cmd T / Ctrl T", "val": "New chat tab"},
+      {"key": "Cmd [ / Ctrl [", "val": "Previous chat"},
+      {"key": "Cmd ] / Ctrl ]", "val": "Next chat"},
+      {"key": "Cmd W / Ctrl W", "val": "Close chat"},
+      {"key": "Escape / Esc", "val": "Unfocus field"}
+    ],
+    "Inline Edit": [
+      {"key": "Cmd K / Ctrl K", "val": "Open"},
+      {"key": "Cmd Shift K / Ctrl Shift K", "val": "Toggle input focus"},
+      {"key": "Return / Enter", "val": "Submit"},
+      {"key": "Cmd Shift Backspace / Ctrl Shift Backspace", "val": "Cancel"},
+      {"key": "Opt Return / Alt Enter", "val": "Ask quick question"}
+    ],
+    "Code Selection & Context": [
+      {"key": "@", "val": "@-mentions"},
+      {"key": "/", "val": "Shortcut Commands"},
+      {"key": "Cmd Shift L / Ctrl Shift L", "val": "Add selection to Chat"},
+      {"key": "Cmd Shift K / Ctrl Shift K", "val": "Add selection to Edit"},
+      {"key": "Cmd L / Ctrl L", "val": "Add selection to new chat"},
+      {"key": "Cmd M / Ctrl M", "val": "Toggle file reading strategies"},
+      {"key": "Cmd Arrow Right / Ctrl Arrow Right", "val": "Accept next word of suggestion"},
+      {"key": "Cmd Return / Ctrl Enter", "val": "Search codebase in chat"},
+      {"key": "Select code, Cmd C, Cmd V / Select code, Ctrl C, Ctrl V", "val": "Add copied reference code as context"},
+      {"key": "Select code, Cmd C, Cmd Shift V / Select code, Ctrl C, Ctrl Shift V", "val": "Add copied code as text context"}
+    ],
+    "Tab": [
+      {"key": "Tab", "val": "Accept suggestion"},
+      {"key": "Cmd → / Ctrl Arrow Right", "val": "Accept next word"}
+    ],
+    "Terminal": [
+      {"key": "Cmd K / Ctrl K", "val": "Open terminal prompt bar"},
+      {"key": "Cmd Return / Ctrl Enter", "val": "Run generated command"},
+      {"key": "Escape / Esc", "val": "Accept command"}
+    ]
+  }
+}

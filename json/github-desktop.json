@@ -1,0 +1,108 @@
+{
+  "name": "GitHub Desktop",
+  "description": "Official GitHub Desktop keyboard shortcuts for macOS and Windows.",
+  "aliases": ["githubdesktop", "github-desktop-app"],
+  "isGUI": true,
+  "metadata": {
+    "sourceName": "GitHub Docs",
+    "sourceUrl": "https://docs.github.com/en/desktop/overview/github-desktop-keyboard-shortcuts"
+  },
+  "section_order": [
+    "Application wide shortcuts (macOS)",
+    "Repositories (macOS)",
+    "Branches (macOS)",
+    "Application wide shortcuts (Windows)",
+    "Repositories (Windows)",
+    "Branches (Windows)"
+  ],
+  "sections": {
+    "Application wide shortcuts (macOS)": [
+      {"key": "Command+,", "val": "Display the Settings window"},
+      {"key": "Command+H", "val": "Hide the GitHub Desktop application"},
+      {"key": "Option+Command+H", "val": "Hide all other applications"},
+      {"key": "Command+Q", "val": "Quit GitHub Desktop"},
+      {"key": "Control+Command+F", "val": "Toggle full screen view"},
+      {"key": "Command+0", "val": "Reset zoom to default text size"},
+      {"key": "Command+=", "val": "Zoom in for larger text and graphics"},
+      {"key": "Command+-", "val": "Zoom out for smaller text and graphics"},
+      {"key": "Command+8", "val": "Decrease active pane width"},
+      {"key": "Command+9", "val": "Increase active pane width"},
+      {"key": "Option+Command+I", "val": "Toggle Developer Tools"},
+      {"key": "Shift+F10", "val": "Open context menu of selected component"}
+    ],
+    "Repositories (macOS)": [
+      {"key": "Command+N", "val": "Add a new repository"},
+      {"key": "Command+O", "val": "Add a local repository"},
+      {"key": "Shift+Command+O", "val": "Clone a repository from GitHub"},
+      {"key": "Command+T", "val": "Show a list of your repositories"},
+      {"key": "Command+P", "val": "Push the latest commits to GitHub"},
+      {"key": "Shift+Command+P", "val": "Pull down the latest changes from GitHub"},
+      {"key": "Command+Delete", "val": "Remove an existing repository"},
+      {"key": "Shift+Command+G", "val": "View the repository on GitHub"},
+      {"key": "Control+`", "val": "Open repository in your preferred terminal tool"},
+      {"key": "Shift+Command+F", "val": "Show the repository in Finder"},
+      {"key": "Shift+Command+A", "val": "Open the repository in your preferred editor tool"},
+      {"key": "Command+I", "val": "Create an issue on GitHub"}
+    ],
+    "Branches (macOS)": [
+      {"key": "Command+1", "val": "Show all your changes before committing"},
+      {"key": "Command+2", "val": "Show your commit history"},
+      {"key": "Command+B", "val": "Show all your branches"},
+      {"key": "Command+G", "val": "Go to the commit summary field"},
+      {"key": "Command+Enter", "val": "Commit changes when summary or description field is active"},
+      {"key": "Space", "val": "Select or deselect all highlighted files"},
+      {"key": "Shift+Command+N", "val": "Create a new branch"},
+      {"key": "Shift+Command+R", "val": "Rename the current branch"},
+      {"key": "Shift+Command+D", "val": "Delete the current branch"},
+      {"key": "Shift+Command+U", "val": "Update from default branch"},
+      {"key": "Shift+Command+B", "val": "Compare to an existing branch"},
+      {"key": "Shift+Command+M", "val": "Merge into current branch"},
+      {"key": "Shift+Command+S", "val": "Stash current changes"},
+      {"key": "Control+H", "val": "Show or hide stashed changes"},
+      {"key": "Shift+Command+C", "val": "Compare branches on GitHub"},
+      {"key": "Command+R", "val": "Show the current pull request on GitHub"}
+    ],
+    "Application wide shortcuts (Windows)": [
+      {"key": "Ctrl+,", "val": "Display the Options window"},
+      {"key": "F11", "val": "Toggle full screen view"},
+      {"key": "Ctrl+0", "val": "Reset zoom to default text size"},
+      {"key": "Ctrl+=", "val": "Zoom in for larger text and graphics"},
+      {"key": "Ctrl+-", "val": "Zoom out for smaller text and graphics"},
+      {"key": "Ctrl+8", "val": "Decrease active pane width"},
+      {"key": "Ctrl+9", "val": "Increase active pane width"},
+      {"key": "Ctrl+Shift+I", "val": "Toggle Developer Tools"}
+    ],
+    "Repositories (Windows)": [
+      {"key": "Ctrl+N", "val": "Add a new repository"},
+      {"key": "Ctrl+O", "val": "Add a local repository"},
+      {"key": "Ctrl+Shift+O", "val": "Clone a repository from GitHub"},
+      {"key": "Ctrl+T", "val": "Show a list of your repositories"},
+      {"key": "Ctrl+P", "val": "Push the latest commits to GitHub"},
+      {"key": "Ctrl+Shift+P", "val": "Pull down the latest changes from GitHub"},
+      {"key": "Ctrl+Delete", "val": "Remove an existing repository"},
+      {"key": "Ctrl+Shift+G", "val": "View the repository on GitHub"},
+      {"key": "Ctrl+`", "val": "Open repository in your preferred command line tool"},
+      {"key": "Ctrl+Shift+F", "val": "Show the repository in Explorer"},
+      {"key": "Ctrl+Shift+A", "val": "Open the repository in your preferred editor tool"},
+      {"key": "Ctrl+I", "val": "Create an issue on GitHub"}
+    ],
+    "Branches (Windows)": [
+      {"key": "Ctrl+1", "val": "Show all your changes before committing"},
+      {"key": "Ctrl+2", "val": "Show your commit history"},
+      {"key": "Ctrl+B", "val": "Show all your branches"},
+      {"key": "Ctrl+G", "val": "Go to the commit summary field"},
+      {"key": "Ctrl+Enter", "val": "Commit changes when summary or description field is active"},
+      {"key": "Space", "val": "Select or deselect all highlighted files"},
+      {"key": "Ctrl+Shift+N", "val": "Create a new branch"},
+      {"key": "Ctrl+Shift+R", "val": "Rename the current branch"},
+      {"key": "Ctrl+Shift+D", "val": "Delete the current branch"},
+      {"key": "Ctrl+Shift+U", "val": "Update from default branch"},
+      {"key": "Ctrl+Shift+B", "val": "Compare to an existing branch"},
+      {"key": "Ctrl+Shift+M", "val": "Merge into current branch"},
+      {"key": "Ctrl+Shift+S", "val": "Stash current changes"},
+      {"key": "Ctrl+H", "val": "Show or hide stashed changes"},
+      {"key": "Ctrl+Shift+C", "val": "Compare branches on GitHub"},
+      {"key": "Ctrl+R", "val": "Show the current pull request on GitHub"}
+    ]
+  }
+}

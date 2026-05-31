@@ -1,0 +1,25 @@
+{
+  "name": "Linear",
+  "description": "Linear web app keyboard shortcuts for navigation and issue management",
+  "aliases": ["linear-app"],
+  "isGUI": true,
+  "metadata": {
+    "sourceUrl": "https://linear.app/keyboard-shortcuts"
+  },
+  "section_order": ["Navigation", "Issue Actions"],
+  "sections": {
+    "Navigation": [
+      { "key": "?", "val": "Open keyboard shortcuts help" },
+      { "key": "Ctrl+K", "val": "Open command palette" },
+      { "key": "G I", "val": "Go to Inbox" },
+      { "key": "G C", "val": "Go to Cycles" },
+      { "key": "S", "val": "Search issues" }
+    ],
+    "Issue Actions": [
+      { "key": "N", "val": "Create a new issue" },
+      { "key": "J / K", "val": "Move between issues" },
+      { "key": "Space", "val": "Open selected issue" },
+      { "key": "Esc", "val": "Close modal or overlay" }
+    ]
+  }
+}

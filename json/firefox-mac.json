@@ -1,0 +1,169 @@
+{
+  "id": "firefox_mac_cheat_sheet",
+  "name": "Mozilla Firefox (macOS)",
+  "description": "Mozilla Firefox keyboard shortcuts for macOS from Mozilla Support.",
+  "metadata": {
+    "sourceName": "Mozilla Firefox Support",
+    "sourceUrl": "https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly"
+  },
+  "aliases": [
+    "firefox-mac",
+    "mozilla-firefox-mac"
+  ],
+  "isGUI": true,
+  "template_type": "keyboard",
+  "section_order": [
+    "Navigation",
+    "Current Page",
+    "Editing",
+    "Search",
+    "Windows & Tabs",
+    "History",
+    "Bookmarks",
+    "Tools",
+    "PDF Viewer",
+    "Miscellaneous",
+    "Audio & Video Media"
+  ],
+  "sections": {
+    "Navigation": [
+      {"key": "command + ←", "val": "Back"},
+      {"key": "command + →", "val": "Forward"},
+      {"key": "option + home", "val": "Home"},
+      {"key": "command + O", "val": "Open File"},
+      {"key": "F5", "val": "Reload"},
+      {"key": "command + R", "val": "Reload"},
+      {"key": "command + shift + R", "val": "Reload (override cache)"},
+      {"key": "Esc", "val": "Stop"},
+      {"key": "command + .", "val": "Stop"}
+    ],
+    "Current Page": [
+      {"key": "Tab", "val": "Focus next link or input field"},
+      {"key": "Shift + Tab", "val": "Focus previous link or input field"},
+      {"key": "Page Down", "val": "Go down a screen"},
+      {"key": "fn + ↓", "val": "Go down a screen"},
+      {"key": "Space bar", "val": "Go down a screen"},
+      {"key": "Page Up", "val": "Go up a screen"},
+      {"key": "fn + ↑", "val": "Go up a screen"},
+      {"key": "Shift + Space bar", "val": "Go up a screen"},
+      {"key": "End", "val": "Go to bottom of page"},
+      {"key": "command + ↓", "val": "Go to bottom of page"},
+      {"key": "Home", "val": "Go to top of page"},
+      {"key": "command + ↑", "val": "Go to top of page"},
+      {"key": "F6", "val": "Move to next frame or pop-up"},
+      {"key": "Shift + F6", "val": "Move to previous frame or pop-up"},
+      {"key": "command + P", "val": "Print"},
+      {"key": "option + return", "val": "Save focused link (when browser.altClickSave is enabled)"},
+      {"key": "command + S", "val": "Save page as"},
+      {"key": "command + +", "val": "Zoom in"},
+      {"key": "command + -", "val": "Zoom out"},
+      {"key": "command + 0", "val": "Zoom reset"}
+    ],
+    "Editing": [
+      {"key": "command + C", "val": "Copy"},
+      {"key": "command + X", "val": "Cut"},
+      {"key": "delete", "val": "Delete"},
+      {"key": "command + V", "val": "Paste"},
+      {"key": "command + shift + V", "val": "Paste as plain text"},
+      {"key": "command + shift + Z", "val": "Redo"},
+      {"key": "command + A", "val": "Select all"},
+      {"key": "command + Z", "val": "Undo"},
+      {"key": "option + select link text", "val": "Select link text only"}
+    ],
+    "Search": [
+      {"key": "command + F", "val": "Find in this page"},
+      {"key": "F3", "val": "Find again"},
+      {"key": "command + G", "val": "Find again"},
+      {"key": "Shift + F3", "val": "Find previous"},
+      {"key": "command + shift + G", "val": "Find previous"},
+      {"key": "'", "val": "Quick find within link text only"},
+      {"key": "/", "val": "Quick find"},
+      {"key": "command + K", "val": "Focus address bar for web search"},
+      {"key": "command + option + F", "val": "Focus address bar for web search"},
+      {"key": "option + ↓", "val": "View menu to switch, add or manage search engines"},
+      {"key": "option + ↑", "val": "View menu to switch, add or manage search engines"}
+    ],
+    "Windows & Tabs": [
+      {"key": "command + W", "val": "Close tab"},
+      {"key": "command + shift + W", "val": "Close window"},
+      {"key": "control + tab", "val": "Cycle through tabs in recently used order"},
+      {"key": "command + Q", "val": "Quit Firefox"},
+      {"key": "control + page up", "val": "Go one tab left or up"},
+      {"key": "control + page down", "val": "Go one tab right or down"},
+      {"key": "command + option + ←", "val": "Go one tab left or up"},
+      {"key": "command + option + ↑", "val": "Go one tab left or up"},
+      {"key": "command + option + →", "val": "Go one tab right or down"},
+      {"key": "command + option + ↓", "val": "Go one tab right or down"},
+      {"key": "command + 1 to 8", "val": "Go to tab 1 through 8"},
+      {"key": "command + 9", "val": "Go to last tab"},
+      {"key": "Ctrl + Shift + Page Up", "val": "Move tab left"},
+      {"key": "Ctrl + Shift + Page Down", "val": "Move tab right"},
+      {"key": "command + shift + home", "val": "Move tab to start"},
+      {"key": "command + shift + end", "val": "Move tab to end"},
+      {"key": "command + T", "val": "New tab"},
+      {"key": "command + N", "val": "New window"},
+      {"key": "command + shift + P", "val": "New private window"},
+      {"key": "option + shift + return", "val": "Open address/search in new background tab"},
+      {"key": "option + return", "val": "Open address/search in new foreground tab"}
+    ],
+    "History": [
+      {"key": "command + shift + H", "val": "History sidebar"},
+      {"key": "command + shift + delete", "val": "Clear recent history"}
+    ],
+    "Bookmarks": [
+      {"key": "command + shift + D", "val": "Bookmark all tabs"},
+      {"key": "command + D", "val": "Bookmark this page"},
+      {"key": "command + B", "val": "Bookmarks sidebar"},
+      {"key": "command + shift + B", "val": "Show or hide the bookmarks toolbar"},
+      {"key": "command + shift + O", "val": "Show all bookmarks (Library window)"}
+    ],
+    "Tools": [
+      {"key": "command + J", "val": "Downloads"},
+      {"key": "command + shift + A", "val": "Add-ons"},
+      {"key": "F12", "val": "Toggle Developer Tools"},
+      {"key": "command + alt + I", "val": "Toggle Developer Tools"},
+      {"key": "command + alt + K", "val": "Web Console"},
+      {"key": "command + alt + C", "val": "Inspector"},
+      {"key": "command + shift + S", "val": "Take a screenshot"},
+      {"key": "Shift + F7", "val": "Style Editor"},
+      {"key": "Shift + Esc", "val": "Task Manager"},
+      {"key": "Shift + F5", "val": "Profiler"},
+      {"key": "command + alt + E", "val": "Network"},
+      {"key": "command + alt + M", "val": "Responsive Design Mode"},
+      {"key": "command + U", "val": "Page Source"},
+      {"key": "command + shift + J", "val": "Browser Console"},
+      {"key": "command + I", "val": "Page Info"}
+    ],
+    "PDF Viewer": [
+      {"key": "N or J or →", "val": "Next page"},
+      {"key": "P or K or ←", "val": "Previous page"},
+      {"key": "command + +", "val": "Zoom in"},
+      {"key": "command + -", "val": "Zoom out"},
+      {"key": "command + 0", "val": "Automatic zoom"},
+      {"key": "R", "val": "Rotate the document clockwise"},
+      {"key": "Shift + R", "val": "Rotate counterclockwise"},
+      {"key": "command + Alt + P", "val": "Switch to Presentation Mode"},
+      {"key": "S", "val": "Choose Text Selection Tool"},
+      {"key": "H", "val": "Choose Hand Tool"},
+      {"key": "command + Alt + G", "val": "Focus the page number input box"}
+    ],
+    "Miscellaneous": [
+      {"key": "command + return", "val": "Complete .com address"},
+      {"key": "shift + delete", "val": "Delete selected autocomplete entry"},
+      {"key": "command + shift + F", "val": "Toggle full screen"},
+      {"key": "command + option + R", "val": "Toggle Reader Mode"},
+      {"key": "F7", "val": "Caret Browsing"},
+      {"key": "F6", "val": "Focus address bar"},
+      {"key": "command + L", "val": "Focus address bar"},
+      {"key": "command + F", "val": "Focus search field in library"},
+      {"key": "Esc", "val": "Stop autoscroll mode / cancel drag-and-drop / clear search field / close a menu"},
+      {"key": "Hold down the Control key while you select an item", "val": "Open context menu"}
+    ],
+    "Audio & Video Media": [
+      {"key": "Space bar", "val": "Toggle play / pause"},
+      {"key": "↓", "val": "Decrease volume"},
+      {"key": "↑", "val": "Increase volume"},
+      {"key": "command + ↓", "val": "Mute audio"}
+    ]
+  }
+}

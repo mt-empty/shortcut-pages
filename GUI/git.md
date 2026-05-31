@@ -24,6 +24,7 @@ $ Make Changes
     `git diff                      {{Shows file differences not yet staged}} 
     `git add [file]                {{Snapshots the file in preparation for versioning}} 
     `git diff --staged             {{Shows file differences between staging and the last file version}} 
+    `git restore [file]            {{Restores file contents from the index or a commit}} 
     `git reset [file]              {{Unstages the file, but preserves its contents}} 
     `git commit -m "[descriptive message]"
 >                                  {{Records the file snapshots permanently in version history}} 
@@ -31,6 +32,8 @@ $ Make Changes
 $ Group Changes
     `git branch                    {{Lists all local branches in the current repository}} 
     `git branch [branch-name]      {{Creates a new branch}} 
+    `git switch [branch-name]      {{Switches to the specified branch}} 
+    `git switch -c [branch-name]   {{Creates a new branch and switches to it}} 
     `git checkout [branch-name]    {{Switches to the specified branch and updates the working directory}} 
     `git merge [branch]            {{Combines the specified branch's history into the current branch}} 
     `git branch -d [branch-name]   {{Deletes the specified branch}} 
